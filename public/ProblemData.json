@@ -1,0 +1,2005 @@
+[
+  {
+    "id": 1,
+    "title": "Login issue",
+    "social_media": "Instagram",
+    "description": "User cannot log into Instagram with valid credentials.",
+    "customer": "Sarah Khan",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-08-10"
+  },
+  {
+    "id": 2,
+    "title": "Password reset not working",
+    "social_media": "Instagram",
+    "description": "Password reset email is not being received.",
+    "customer": "David Green",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-07-21"
+  },
+  {
+    "id": 3,
+    "title": "Story upload failed",
+    "social_media": "Instagram",
+    "description": "User cannot upload stories; it keeps showing error.",
+    "customer": "Emily Carter",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2025-06-15"
+  },
+  {
+    "id": 4,
+    "title": "Reels not visible",
+    "social_media": "Instagram",
+    "description": "Customer’s reels are not showing up on profile.",
+    "customer": "Michael Brown",
+    "priority": "Low",
+    "status": "Closed",
+    "createdAt": "2025-05-30"
+  },
+  {
+    "id": 5,
+    "title": "Account hacked",
+    "social_media": "Instagram",
+    "description": "Customer’s account shows suspicious login from unknown devices.",
+    "customer": "Olivia Smith",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-08-02"
+  },
+  {
+    "id": 6,
+    "title": "Direct messages not working",
+    "social_media": "Instagram",
+    "description": "User cannot send or receive Instagram DMs.",
+    "customer": "James Wilson",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-08-12"
+  },
+  {
+    "id": 7,
+    "title": "Post not publishing",
+    "social_media": "Instagram",
+    "description": "Photos are not being posted, upload stuck at 95%.",
+    "customer": "Sophia Martinez",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2025-07-05"
+  },
+  {
+    "id": 8,
+    "title": "Explore page not loading",
+    "social_media": "Instagram",
+    "description": "User’s explore feed is blank and not updating.",
+    "customer": "Daniel Lee",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2025-06-19"
+  },
+  {
+    "id": 9,
+    "title": "Verification badge missing",
+    "social_media": "Instagram",
+    "description": "Blue tick disappeared from verified account.",
+    "customer": "Isabella Johnson",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-04-23"
+  },
+  {
+    "id": 10,
+    "title": "Unable to follow accounts",
+    "social_media": "Instagram",
+    "description": "Customer cannot follow new accounts, showing error.",
+    "customer": "William Scott",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-08-09"
+  },
+  {
+    "id": 11,
+    "title": "Hashtags not working",
+    "social_media": "Instagram",
+    "description": "Posts are not appearing under hashtags.",
+    "customer": "Mia Rodriguez",
+    "priority": "Low",
+    "status": "Closed",
+    "createdAt": "2025-03-14"
+  },
+  {
+    "id": 12,
+    "title": "Ads payment error",
+    "social_media": "Instagram",
+    "description": "Payment failed while boosting Instagram post.",
+    "customer": "Benjamin White",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-07-29"
+  },
+  {
+    "id": 13,
+    "title": "Tagged photos missing",
+    "social_media": "Instagram",
+    "description": "Photos tagged with user’s account are not visible.",
+    "customer": "Charlotte Davis",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2025-08-03"
+  },
+  {
+    "id": 14,
+    "title": "Notification delay",
+    "social_media": "Instagram",
+    "description": "Notifications arrive hours later than expected.",
+    "customer": "Lucas Perez",
+    "priority": "Low",
+    "status": "Closed",
+    "createdAt": "2025-02-18"
+  },
+  {
+    "id": 15,
+    "title": "Account disabled",
+    "social_media": "Instagram",
+    "description": "User’s account was disabled without clear reason.",
+    "customer": "Amelia Clark",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-08-05"
+  },
+  {
+    "id": 16,
+    "title": "Reels audio not working",
+    "social_media": "Instagram",
+    "description": "User cannot add music to reels; audio option missing.",
+    "customer": "Ethan Hall",
+    "priority": "Medium",
+    "status": "Closed",
+    "createdAt": "2025-05-21"
+  },
+  {
+    "id": 17,
+    "title": "App crashing",
+    "social_media": "Instagram",
+    "description": "Instagram app crashes on opening after recent update.",
+    "customer": "Ava Thompson",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2025-08-16"
+  },
+  {
+    "id": 18,
+    "title": "Stories not loading",
+    "social_media": "Instagram",
+    "description": "User cannot see stories from friends.",
+    "customer": "Henry Adams",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-07-08"
+  },
+  {
+    "id": 19,
+    "title": "Business insights missing",
+    "social_media": "Instagram",
+    "description": "Customer cannot view insights for business posts.",
+    "customer": "Ella Roberts",
+    "priority": "Low",
+    "status": "Closed",
+    "createdAt": "2025-06-12"
+  },
+  {
+    "id": 20,
+    "title": "Login with Facebook failed",
+    "social_media": "Instagram",
+    "description": "User cannot log into Instagram using Facebook account.",
+    "customer": "Jack Evans",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-08-20"
+  },
+    {
+    "id": 21,
+    "title": "Login issue",
+    "social_media": "Facebook",
+    "description": "User cannot log into Facebook with valid credentials.",
+    "customer": "John Doe",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-08-12"
+  },
+  {
+    "id": 22,
+    "title": "Password reset not working",
+    "social_media": "Facebook",
+    "description": "Password reset link is not being sent to the registered email.",
+    "customer": "Jane Smith",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-07-25"
+  },
+  {
+    "id": 23,
+    "title": "Two-factor authentication problem",
+    "social_media": "Facebook",
+    "description": "User is not receiving OTP for two-factor authentication.",
+    "customer": "Michael Johnson",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2025-06-15"
+  },
+  {
+    "id": 24,
+    "title": "Post not publishing",
+    "social_media": "Facebook",
+    "description": "User is unable to publish posts on timeline.",
+    "customer": "Emily Davis",
+    "priority": "Low",
+    "status": "Closed",
+    "createdAt": "2025-05-30"
+  },
+  {
+    "id": 25,
+    "title": "Messenger not loading",
+    "social_media": "Facebook",
+    "description": "Messenger keeps showing loading screen indefinitely.",
+    "customer": "David Wilson",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-08-02"
+  },
+  {
+    "id": 26,
+    "title": "Account hacked",
+    "social_media": "Facebook",
+    "description": "Customer’s account is compromised and suspicious activities are found.",
+    "customer": "Sophia Brown",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-08-14"
+  },
+  {
+    "id": 27,
+    "title": "Ad payment failed",
+    "social_media": "Facebook",
+    "description": "Transaction failed while paying for an advertisement.",
+    "customer": "James Taylor",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2025-07-05"
+  },
+  {
+    "id": 28,
+    "title": "Video upload stuck",
+    "social_media": "Facebook",
+    "description": "Videos are not uploading beyond 95%.",
+    "customer": "Olivia Martin",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-06-19"
+  },
+  {
+    "id": 29,
+    "title": "Group invite issue",
+    "social_media": "Facebook",
+    "description": "User cannot invite friends to a Facebook group.",
+    "customer": "Daniel Lee",
+    "priority": "Low",
+    "status": "Closed",
+    "createdAt": "2025-04-23"
+  },
+  {
+    "id": 30,
+    "title": "Friend request not working",
+    "social_media": "Facebook",
+    "description": "Customer cannot send friend requests to anyone.",
+    "customer": "Isabella Garcia",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-08-09"
+  },
+  {
+    "id": 31,
+    "title": "Reels not visible",
+    "social_media": "Facebook",
+    "description": "Reels are not showing up on the customer’s account.",
+    "customer": "William Harris",
+    "priority": "Low",
+    "status": "Closed",
+    "createdAt": "2025-03-14"
+  },
+  {
+    "id": 32,
+    "title": "Page admin rights missing",
+    "social_media": "Facebook",
+    "description": "Customer lost admin access to their business page.",
+    "customer": "Mia Clark",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-07-29"
+  },
+  {
+    "id": 33,
+    "title": "Commenting restricted",
+    "social_media": "Facebook",
+    "description": "User cannot comment on any posts.",
+    "customer": "Alexander Lewis",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2025-08-03"
+  },
+  {
+    "id": 34,
+    "title": "Notification delay",
+    "social_media": "Facebook",
+    "description": "Notifications are delayed by several hours.",
+    "customer": "Charlotte Young",
+    "priority": "Low",
+    "status": "Closed",
+    "createdAt": "2025-02-18"
+  },
+  {
+    "id": 35,
+    "title": "Marketplace access denied",
+    "social_media": "Facebook",
+    "description": "Customer cannot access Facebook Marketplace.",
+    "customer": "Benjamin Hall",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-08-05"
+  },
+  {
+    "id": 36,
+    "title": "Tagged photos missing",
+    "social_media": "Facebook",
+    "description": "Photos tagged with customer’s name are not appearing.",
+    "customer": "Amelia Allen",
+    "priority": "Medium",
+    "status": "Closed",
+    "createdAt": "2025-05-21"
+  },
+  {
+    "id": 37,
+    "title": "App crashing frequently",
+    "social_media": "Facebook",
+    "description": "Facebook app crashes on opening after update.",
+    "customer": "Ethan Wright",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2025-08-16"
+  },
+  {
+    "id": 38,
+    "title": "Stories not uploading",
+    "social_media": "Facebook",
+    "description": "Stories are not uploading for the customer.",
+    "customer": "Harper Scott",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-07-08"
+  },
+  {
+    "id": 39,
+    "title": "Language settings issue",
+    "social_media": "Facebook",
+    "description": "Customer cannot change language settings in app.",
+    "customer": "Lucas King",
+    "priority": "Low",
+    "status": "Closed",
+    "createdAt": "2025-06-12"
+  },
+  {
+    "id": 40,
+    "title": "Business suite login error",
+    "social_media": "Facebook",
+    "description": "User cannot log into Facebook Business Suite.",
+    "customer": "Ava Lopez",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-08-20"
+  },
+  {
+    "id": 41,
+    "title": "Login failed",
+    "social_media": "Twitter",
+    "description": "User cannot log into their Twitter account despite correct password.",
+    "customer": "Noah Anderson",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-08-04"
+  },
+  {
+    "id": 42,
+    "title": "Tweet not posting",
+    "social_media": "Twitter",
+    "description": "Customer’s tweets remain stuck on ‘Posting…’ screen.",
+    "customer": "Emma Thompson",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2025-07-22"
+  },
+  {
+    "id": 43,
+    "title": "Password reset email missing",
+    "social_media": "Twitter",
+    "description": "Reset email is not being delivered to customer’s inbox.",
+    "customer": "Liam Martinez",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-06-25"
+  },
+  {
+    "id": 44,
+    "title": "Hashtags not working",
+    "social_media": "Twitter",
+    "description": "Hashtags are not linking to the trending feed.",
+    "customer": "Sophia Robinson",
+    "priority": "Low",
+    "status": "Closed",
+    "createdAt": "2025-08-10"
+  },
+  {
+    "id": 45,
+    "title": "Account temporarily locked",
+    "social_media": "Twitter",
+    "description": "User’s account is locked without any violation notice.",
+    "customer": "Mason Clark",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-07-09"
+  },
+  {
+    "id": 46,
+    "title": "Media upload error",
+    "social_media": "Twitter",
+    "description": "Images and videos fail to upload with error code 113.",
+    "customer": "Ava Rodriguez",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2025-05-18"
+  },
+  {
+    "id": 47,
+    "title": "Direct messages not sending",
+    "social_media": "Twitter",
+    "description": "Customer cannot send DMs to any account.",
+    "customer": "Elijah Lewis",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-06-29"
+  },
+  {
+    "id": 48,
+    "title": "Two-factor authentication broken",
+    "social_media": "Twitter",
+    "description": "User receives incorrect verification codes repeatedly.",
+    "customer": "Charlotte Walker",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-07-14"
+  },
+  {
+    "id": 49,
+    "title": "Search results inaccurate",
+    "social_media": "Twitter",
+    "description": "Search shows unrelated tweets even with exact keywords.",
+    "customer": "Logan Perez",
+    "priority": "Low",
+    "status": "Closed",
+    "createdAt": "2025-04-27"
+  },
+  {
+    "id": 50,
+    "title": "Account suspended wrongly",
+    "social_media": "Twitter",
+    "description": "Customer’s account is suspended without any notice.",
+    "customer": "Isabella Hill",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-08-19"
+  },
+  {
+    "id": 51,
+    "title": "Spaces crashing",
+    "social_media": "Twitter",
+    "description": "Twitter Spaces crashes every time user joins.",
+    "customer": "Lucas Green",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2025-07-11"
+  },
+  {
+    "id": 52,
+    "title": "Profile picture not updating",
+    "social_media": "Twitter",
+    "description": "Profile image fails to change after upload.",
+    "customer": "Mia Adams",
+    "priority": "Low",
+    "status": "Closed",
+    "createdAt": "2025-06-21"
+  },
+  {
+    "id": 53,
+    "title": "Analytics dashboard blank",
+    "social_media": "Twitter",
+    "description": "Customer sees a blank screen when opening analytics.",
+    "customer": "James Baker",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-05-06"
+  },
+  {
+    "id": 54,
+    "title": "Follow button not working",
+    "social_media": "Twitter",
+    "description": "Clicking follow has no effect for any account.",
+    "customer": "Evelyn Gonzalez",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-07-17"
+  },
+  {
+    "id": 55,
+    "title": "Tweet scheduling failed",
+    "social_media": "Twitter",
+    "description": "Scheduled tweets do not post at the chosen time.",
+    "customer": "Henry Nelson",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2025-08-15"
+  },
+  {
+    "id": 56,
+    "title": "Bookmark not saving",
+    "social_media": "Twitter",
+    "description": "Customer cannot bookmark any tweets.",
+    "customer": "Ella Carter",
+    "priority": "Low",
+    "status": "Closed",
+    "createdAt": "2025-03-30"
+  },
+  {
+    "id": 57,
+    "title": "Lists disappearing",
+    "social_media": "Twitter",
+    "description": "User’s curated lists disappear after refresh.",
+    "customer": "Aiden Mitchell",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-08-07"
+  },
+  {
+    "id": 58,
+    "title": "Notifications missing",
+    "social_media": "Twitter",
+    "description": "Customer is not receiving any mention or reply notifications.",
+    "customer": "Scarlett Perez",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-07-26"
+  },
+  {
+    "id": 59,
+    "title": "Muted words not working",
+    "social_media": "Twitter",
+    "description": "Muted words still appear in customer’s feed.",
+    "customer": "Jack Rivera",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2025-06-09"
+  },
+  {
+    "id": 60,
+    "title": "Verification badge removed",
+    "social_media": "Twitter",
+    "description": "Blue verification checkmark removed without explanation.",
+    "customer": "Grace Foster",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-08-22"
+  },
+  {
+    "id": 61,
+    "title": "Login issue",
+    "social_media": "LinkedIn",
+    "description": "User cannot log into LinkedIn account with valid credentials.",
+    "customer": "Oliver Smith",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-08-03"
+  },
+  {
+    "id": 62,
+    "title": "Profile photo not updating",
+    "social_media": "LinkedIn",
+    "description": "Profile picture fails to update after upload.",
+    "customer": "Emma Johnson",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-07-14"
+  },
+  {
+    "id": 63,
+    "title": "Connection request failed",
+    "social_media": "LinkedIn",
+    "description": "Customer cannot send connection requests to new contacts.",
+    "customer": "Liam Brown",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2025-06-25"
+  },
+  {
+    "id": 64,
+    "title": "Messaging not working",
+    "social_media": "LinkedIn",
+    "description": "User cannot send messages to connections.",
+    "customer": "Sophia Davis",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-08-12"
+  },
+  {
+    "id": 65,
+    "title": "Job alerts missing",
+    "social_media": "LinkedIn",
+    "description": "Customer is not receiving job alerts for saved searches.",
+    "customer": "Mason Wilson",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-07-19"
+  },
+  {
+    "id": 66,
+    "title": "Endorsements not appearing",
+    "social_media": "LinkedIn",
+    "description": "Skills endorsements are not showing on profile.",
+    "customer": "Ava Martinez",
+    "priority": "Low",
+    "status": "Closed",
+    "createdAt": "2025-06-10"
+  },
+  {
+    "id": 67,
+    "title": "Profile analytics blank",
+    "social_media": "LinkedIn",
+    "description": "Insights for profile views and search appearances are empty.",
+    "customer": "Elijah Anderson",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2025-07-28"
+  },
+  {
+    "id": 68,
+    "title": "Notifications delayed",
+    "social_media": "LinkedIn",
+    "description": "Customer receives notifications hours late.",
+    "customer": "Charlotte Thomas",
+    "priority": "Low",
+    "status": "Closed",
+    "createdAt": "2025-05-22"
+  },
+  {
+    "id": 69,
+    "title": "Account locked unexpectedly",
+    "social_media": "LinkedIn",
+    "description": "User account locked without any security alert.",
+    "customer": "Logan Harris",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-08-08"
+  },
+  {
+    "id": 70,
+    "title": "Post not visible",
+    "social_media": "LinkedIn",
+    "description": "Customer’s posts are not appearing on feeds.",
+    "customer": "Isabella Clark",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-07-05"
+  },
+  {
+    "id": 71,
+    "title": "Video upload failed",
+    "social_media": "LinkedIn",
+    "description": "Videos fail to upload with error 502.",
+    "customer": "James Lewis",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2025-06-16"
+  },
+  {
+    "id": 72,
+    "title": "Company page admin issue",
+    "social_media": "LinkedIn",
+    "description": "Admin access removed from company page unexpectedly.",
+    "customer": "Mia Walker",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-08-15"
+  },
+  {
+    "id": 73,
+    "title": "Skills section disappearing",
+    "social_media": "LinkedIn",
+    "description": "Customer’s listed skills vanished from profile.",
+    "customer": "Alexander Young",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2025-07-11"
+  },
+  {
+    "id": 74,
+    "title": "Profile not searchable",
+    "social_media": "LinkedIn",
+    "description": "Profile does not appear in search results.",
+    "customer": "Charlotte Scott",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-08-20"
+  },
+  {
+    "id": 75,
+    "title": "Connection suggestions missing",
+    "social_media": "LinkedIn",
+    "description": "Suggested connections are not showing for the user.",
+    "customer": "Benjamin King",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-07-03"
+  },
+  {
+    "id": 76,
+    "title": "InMail not sending",
+    "social_media": "LinkedIn",
+    "description": "Paid InMails are not being delivered to recipients.",
+    "customer": "Amelia Green",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2025-06-28"
+  },
+  {
+    "id": 77,
+    "title": "Saved jobs disappearing",
+    "social_media": "LinkedIn",
+    "description": "Jobs saved for later are vanishing from dashboard.",
+    "customer": "Ethan Adams",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-05-18"
+  },
+  {
+    "id": 78,
+    "title": "Learning course progress lost",
+    "social_media": "LinkedIn",
+    "description": "Progress in LinkedIn Learning courses resets randomly.",
+    "customer": "Ella Parker",
+    "priority": "Low",
+    "status": "Closed",
+    "createdAt": "2025-06-05"
+  },
+  {
+    "id": 79,
+    "title": "Profile section locked",
+    "social_media": "LinkedIn",
+    "description": "Certain profile sections cannot be edited.",
+    "customer": "Jack Rivera",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-07-21"
+  },
+  {
+    "id": 80,
+    "title": "Login with Google failed",
+    "social_media": "LinkedIn",
+    "description": "Google account login integration not working.",
+    "customer": "Grace Foster",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-08-22"
+  },
+  {
+    "id": 81,
+    "title": "Login issue",
+    "social_media": "Pinterest",
+    "description": "User cannot log into Pinterest account with valid credentials.",
+    "customer": "Olivia Bennett",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-08-01"
+  },
+  {
+    "id": 82,
+    "title": "Pin not saving",
+    "social_media": "Pinterest",
+    "description": "Customer cannot save pins to their boards.",
+    "customer": "Liam Carter",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-07-12"
+  },
+  {
+    "id": 83,
+    "title": "Board creation failed",
+    "social_media": "Pinterest",
+    "description": "New boards cannot be created; error 403 appears.",
+    "customer": "Emma Davis",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2025-06-23"
+  },
+  {
+    "id": 84,
+    "title": "Pins disappearing",
+    "social_media": "Pinterest",
+    "description": "Previously saved pins vanish from boards randomly.",
+    "customer": "Noah Evans",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-08-10"
+  },
+  {
+    "id": 85,
+    "title": "Search not returning results",
+    "social_media": "Pinterest",
+    "description": "Search returns blank or unrelated pins.",
+    "customer": "Ava Foster",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-07-20"
+  },
+  {
+    "id": 86,
+    "title": "Profile picture not updating",
+    "social_media": "Pinterest",
+    "description": "Uploaded profile image does not appear.",
+    "customer": "Mason Garcia",
+    "priority": "Low",
+    "status": "Closed",
+    "createdAt": "2025-06-15"
+  },
+  {
+    "id": 87,
+    "title": "Email notifications missing",
+    "social_media": "Pinterest",
+    "description": "Customer does not receive any email notifications.",
+    "customer": "Sophia Harris",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2025-07-28"
+  },
+  {
+    "id": 88,
+    "title": "Pinterest app crashing",
+    "social_media": "Pinterest",
+    "description": "App crashes on opening after update.",
+    "customer": "Elijah Johnson",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-08-13"
+  },
+  {
+    "id": 89,
+    "title": "Repin button not working",
+    "social_media": "Pinterest",
+    "description": "Repinning existing pins fails with error.",
+    "customer": "Charlotte King",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-07-09"
+  },
+  {
+    "id": 90,
+    "title": "Notifications delayed",
+    "social_media": "Pinterest",
+    "description": "Push notifications arrive hours late.",
+    "customer": "Lucas Lewis",
+    "priority": "Low",
+    "status": "Closed",
+    "createdAt": "2025-05-21"
+  },
+  {
+    "id": 91,
+    "title": "Video pin upload failed",
+    "social_media": "Pinterest",
+    "description": "Video pins fail to upload, showing generic error.",
+    "customer": "Mia Martinez",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-08-07"
+  },
+  {
+    "id": 92,
+    "title": "Password reset not working",
+    "social_media": "Pinterest",
+    "description": "Password reset email not received by user.",
+    "customer": "Benjamin Moore",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2025-07-18"
+  },
+  {
+    "id": 93,
+    "title": "Following list empty",
+    "social_media": "Pinterest",
+    "description": "Customer cannot see accounts they are following.",
+    "customer": "Amelia Nelson",
+    "priority": "Low",
+    "status": "Closed",
+    "createdAt": "2025-06-08"
+  },
+  {
+    "id": 94,
+    "title": "Board privacy settings incorrect",
+    "social_media": "Pinterest",
+    "description": "Private boards appear publicly and vice versa.",
+    "customer": "Ethan Parker",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-08-14"
+  },
+  {
+    "id": 95,
+    "title": "Pin description missing",
+    "social_media": "Pinterest",
+    "description": "Customer’s pin descriptions are blank after upload.",
+    "customer": "Ella Roberts",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-07-05"
+  },
+  {
+    "id": 96,
+    "title": "Search filters not working",
+    "social_media": "Pinterest",
+    "description": "Filters like ‘All Pins’ and ‘Videos’ do not apply.",
+    "customer": "Jack Scott",
+    "priority": "Low",
+    "status": "Closed",
+    "createdAt": "2025-06-20"
+  },
+  {
+    "id": 97,
+    "title": "Pinterest analytics missing",
+    "social_media": "Pinterest",
+    "description": "Business accounts cannot see analytics for pins.",
+    "customer": "Grace Thompson",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2025-08-18"
+  },
+  {
+    "id": 98,
+    "title": "Commenting not allowed",
+    "social_media": "Pinterest",
+    "description": "Customer cannot comment on any pin.",
+    "customer": "Henry Turner",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-07-27"
+  },
+  {
+    "id": 99,
+    "title": "Login with Google failed",
+    "social_media": "Pinterest",
+    "description": "Sign in via Google account does not work.",
+    "customer": "Sophia White",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-08-22"
+  },
+  {
+    "id": 100,
+    "title": "Pin sharing not working",
+    "social_media": "Pinterest",
+    "description": "Customer cannot share pins to other social media accounts.",
+    "customer": "Lucas Young",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-07-06"
+  },
+  {
+    "id": 101,
+    "title": "Login issue",
+    "social_media": "WhatsApp",
+    "description": "User cannot log into WhatsApp account with correct credentials.",
+    "customer": "Oliver Scott",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-08-02"
+  },
+  {
+    "id": 102,
+    "title": "Message sending failed",
+    "social_media": "WhatsApp",
+    "description": "Messages are not being delivered to contacts.",
+    "customer": "Emma Lewis",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-07-15"
+  },
+  {
+    "id": 103,
+    "title": "Media not downloading",
+    "social_media": "WhatsApp",
+    "description": "Customer cannot download images or videos sent to them.",
+    "customer": "Liam Clark",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2025-06-25"
+  },
+  {
+    "id": 104,
+    "title": "Notification delay",
+    "social_media": "WhatsApp",
+    "description": "Push notifications arrive late or not at all.",
+    "customer": "Sophia Martinez",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-07-28"
+  },
+  {
+    "id": 105,
+    "title": "Group creation failed",
+    "social_media": "WhatsApp",
+    "description": "Unable to create new groups, error message appears.",
+    "customer": "Mason Walker",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-08-10"
+  },
+  {
+    "id": 106,
+    "title": "Backup restore failed",
+    "social_media": "WhatsApp",
+    "description": "Customer cannot restore chat backups from Google Drive/iCloud.",
+    "customer": "Ava Harris",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2025-06-18"
+  },
+  {
+    "id": 107,
+    "title": "App crashing",
+    "social_media": "WhatsApp",
+    "description": "WhatsApp crashes immediately after launch.",
+    "customer": "Elijah White",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-08-12"
+  },
+  {
+    "id": 108,
+    "title": "Status update not visible",
+    "social_media": "WhatsApp",
+    "description": "Contacts cannot see customer’s status updates.",
+    "customer": "Charlotte Lewis",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-07-05"
+  },
+  {
+    "id": 109,
+    "title": "Video call failed",
+    "social_media": "WhatsApp",
+    "description": "Video calls are failing to connect.",
+    "customer": "Logan Walker",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-08-08"
+  },
+  {
+    "id": 110,
+    "title": "Archived chats missing",
+    "social_media": "WhatsApp",
+    "description": "Archived chats disappear after reopening the app.",
+    "customer": "Isabella King",
+    "priority": "Medium",
+    "status": "Closed",
+    "createdAt": "2025-07-11"
+  },
+  {
+    "id": 111,
+    "title": "Audio messages not playing",
+    "social_media": "WhatsApp",
+    "description": "Voice messages cannot be played.",
+    "customer": "James Parker",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2025-06-19"
+  },
+  {
+    "id": 112,
+    "title": "Blocked contacts still able to message",
+    "social_media": "WhatsApp",
+    "description": "Blocked users can still send messages.",
+    "customer": "Mia Lopez",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-08-16"
+  },
+  {
+    "id": 113,
+    "title": "Group notification not received",
+    "social_media": "WhatsApp",
+    "description": "Notifications from groups are missing.",
+    "customer": "Alexander Young",
+    "priority": "Low",
+    "status": "Closed",
+    "createdAt": "2025-05-20"
+  },
+  {
+    "id": 114,
+    "title": "Media backup taking too long",
+    "social_media": "WhatsApp",
+    "description": "Backup of photos/videos is extremely slow or fails.",
+    "customer": "Charlotte Scott",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2025-07-07"
+  },
+  {
+    "id": 115,
+    "title": "WhatsApp Web not connecting",
+    "social_media": "WhatsApp",
+    "description": "Customer cannot connect WhatsApp Web to phone app.",
+    "customer": "Benjamin Hill",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-08-20"
+  },
+  {
+    "id": 116,
+    "title": "Notification sound missing",
+    "social_media": "WhatsApp",
+    "description": "No sound plays when receiving a new message.",
+    "customer": "Amelia Green",
+    "priority": "Low",
+    "status": "Closed",
+    "createdAt": "2025-06-09"
+  },
+  {
+    "id": 117,
+    "title": "Message search not working",
+    "social_media": "WhatsApp",
+    "description": "Searching for old messages does not return results.",
+    "customer": "Ethan Adams",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-07-22"
+  },
+  {
+    "id": 118,
+    "title": "Emoji picker not working",
+    "social_media": "WhatsApp",
+    "description": "Customer cannot select emojis in chat.",
+    "customer": "Ella Parker",
+    "priority": "Low",
+    "status": "Closed",
+    "createdAt": "2025-06-17"
+  },
+  {
+    "id": 119,
+    "title": "App update failed",
+    "social_media": "WhatsApp",
+    "description": "WhatsApp update from app store fails repeatedly.",
+    "customer": "Jack Rivera",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2025-07-28"
+  },
+  {
+    "id": 120,
+    "title": "Login with Google failed",
+    "social_media": "WhatsApp",
+    "description": "Google account login does not work.",
+    "customer": "Grace Foster",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-08-22"
+  },
+  {
+    "id": 121,
+    "title": "Login issue",
+    "social_media": "Telegram",
+    "description": "User cannot log into Telegram with valid credentials.",
+    "customer": "Oliver Bennett",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-08-03"
+  },
+  {
+    "id": 122,
+    "title": "Message not sending",
+    "social_media": "Telegram",
+    "description": "Messages are stuck in outbox and not delivered.",
+    "customer": "Emma Carter",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-07-16"
+  },
+  {
+    "id": 123,
+    "title": "Media download failed",
+    "social_media": "Telegram",
+    "description": "Customer cannot download photos or videos from chats.",
+    "customer": "Liam Harris",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2025-06-27"
+  },
+  {
+    "id": 124,
+    "title": "Notification delay",
+    "social_media": "Telegram",
+    "description": "Push notifications arrive late or not at all.",
+    "customer": "Sophia Young",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-07-29"
+  },
+  {
+    "id": 125,
+    "title": "Group creation failed",
+    "social_media": "Telegram",
+    "description": "Unable to create new groups; error message shown.",
+    "customer": "Mason Walker",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-08-11"
+  },
+  {
+    "id": 126,
+    "title": "App crashing",
+    "social_media": "Telegram",
+    "description": "Telegram crashes immediately after launch.",
+    "customer": "Ava Johnson",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2025-06-20"
+  },
+  {
+    "id": 127,
+    "title": "Voice messages not playing",
+    "social_media": "Telegram",
+    "description": "Audio messages cannot be played in chats.",
+    "customer": "Elijah Lewis",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-07-30"
+  },
+  {
+    "id": 128,
+    "title": "Sticker pack not installing",
+    "social_media": "Telegram",
+    "description": "Customer cannot add new sticker packs to account.",
+    "customer": "Charlotte Martinez",
+    "priority": "Low",
+    "status": "Closed",
+    "createdAt": "2025-05-22"
+  },
+  {
+    "id": 129,
+    "title": "Secret chat not working",
+    "social_media": "Telegram",
+    "description": "Cannot start or access secret chats.",
+    "customer": "Logan Walker",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-08-09"
+  },
+  {
+    "id": 130,
+    "title": "Login via phone number failed",
+    "social_media": "Telegram",
+    "description": "OTP not received to log in via phone number.",
+    "customer": "Isabella King",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-07-12"
+  },
+  {
+    "id": 131,
+    "title": "Channel messages disappearing",
+    "social_media": "Telegram",
+    "description": "Messages in subscribed channels are not visible.",
+    "customer": "James Parker",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2025-06-21"
+  },
+  {
+    "id": 132,
+    "title": "Archived chats missing",
+    "social_media": "Telegram",
+    "description": "Archived chats vanish after app restart.",
+    "customer": "Mia Lopez",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-07-23"
+  },
+  {
+    "id": 133,
+    "title": "Two-step verification failed",
+    "social_media": "Telegram",
+    "description": "User cannot complete two-step verification setup.",
+    "customer": "Alexander Young",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-08-14"
+  },
+  {
+    "id": 134,
+    "title": "Video calls not connecting",
+    "social_media": "Telegram",
+    "description": "Customer’s video calls do not connect properly.",
+    "customer": "Charlotte Scott",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2025-07-07"
+  },
+  {
+    "id": 135,
+    "title": "File sharing failed",
+    "social_media": "Telegram",
+    "description": "Customer cannot send documents or files in chat.",
+    "customer": "Benjamin Hill",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-08-21"
+  },
+  {
+    "id": 136,
+    "title": "App update failed",
+    "social_media": "Telegram",
+    "description": "Telegram update from app store fails repeatedly.",
+    "customer": "Amelia Green",
+    "priority": "Low",
+    "status": "Closed",
+    "createdAt": "2025-06-10"
+  },
+  {
+    "id": 137,
+    "title": "Notification sound missing",
+    "social_media": "Telegram",
+    "description": "No sound plays for new messages.",
+    "customer": "Ethan Adams",
+    "priority": "Low",
+    "status": "Closed",
+    "createdAt": "2025-07-24"
+  },
+  {
+    "id": 138,
+    "title": "Pinned message not showing",
+    "social_media": "Telegram",
+    "description": "Pinned messages in groups or channels do not display.",
+    "customer": "Ella Parker",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2025-06-12"
+  },
+  {
+    "id": 139,
+    "title": "Search not working",
+    "social_media": "Telegram",
+    "description": "Searching for messages or chats returns blank results.",
+    "customer": "Jack Rivera",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-07-29"
+  },
+  {
+    "id": 140,
+    "title": "Login with Google failed",
+    "social_media": "Telegram",
+    "description": "Google account login integration not working.",
+    "customer": "Grace Foster",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-08-22"
+  },
+  {
+    "id": 141,
+    "title": "Login issue",
+    "social_media": "VIP",
+    "description": "User cannot log into VIP account with valid credentials.",
+    "customer": "Oliver Bennett",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-08-01"
+  },
+  {
+    "id": 142,
+    "title": "Payment failed",
+    "social_media": "VIP",
+    "description": "Customer cannot complete payment for subscription.",
+    "customer": "Emma Carter",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-07-15"
+  },
+  {
+    "id": 143,
+    "title": "Content not loading",
+    "social_media": "VIP",
+    "description": "Premium content fails to load in app.",
+    "customer": "Liam Harris",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2025-06-25"
+  },
+  {
+    "id": 144,
+    "title": "Notification delay",
+    "social_media": "VIP",
+    "description": "VIP notifications arrive late or not at all.",
+    "customer": "Sophia Young",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-07-29"
+  },
+  {
+    "id": 145,
+    "title": "Profile picture not updating",
+    "social_media": "VIP",
+    "description": "Uploaded profile image does not appear in profile.",
+    "customer": "Mason Walker",
+    "priority": "Low",
+    "status": "Closed",
+    "createdAt": "2025-08-11"
+  },
+  {
+    "id": 146,
+    "title": "Subscription renewal failed",
+    "social_media": "VIP",
+    "description": "Automatic renewal of subscription failed for customer.",
+    "customer": "Ava Johnson",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2025-06-20"
+  },
+  {
+    "id": 147,
+    "title": "App crashing",
+    "social_media": "VIP",
+    "description": "VIP app crashes immediately after launch.",
+    "customer": "Elijah Lewis",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-08-12"
+  },
+  {
+    "id": 148,
+    "title": "Video streaming failed",
+    "social_media": "VIP",
+    "description": "Customer cannot stream premium videos.",
+    "customer": "Charlotte Martinez",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-07-05"
+  },
+  {
+    "id": 149,
+    "title": "Account locked",
+    "social_media": "VIP",
+    "description": "VIP account locked without reason.",
+    "customer": "Logan Walker",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-08-09"
+  },
+  {
+    "id": 150,
+    "title": "Login via social account failed",
+    "social_media": "VIP",
+    "description": "Social login integration not working.",
+    "customer": "Isabella King",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-07-12"
+  },
+  {
+    "id": 151,
+    "title": "Premium content disappearing",
+    "social_media": "VIP",
+    "description": "Previously purchased content is no longer accessible.",
+    "customer": "James Parker",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2025-06-21"
+  },
+  {
+    "id": 152,
+    "title": "Push notifications missing",
+    "social_media": "VIP",
+    "description": "Customer does not receive push notifications.",
+    "customer": "Mia Lopez",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-07-23"
+  },
+  {
+    "id": 153,
+    "title": "Two-factor authentication failed",
+    "social_media": "VIP",
+    "description": "User cannot complete two-step verification setup.",
+    "customer": "Alexander Young",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-08-14"
+  },
+  {
+    "id": 154,
+    "title": "Video playback error",
+    "social_media": "VIP",
+    "description": "Premium videos fail to play, showing error 503.",
+    "customer": "Charlotte Scott",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2025-07-07"
+  },
+  {
+    "id": 155,
+    "title": "File download failed",
+    "social_media": "VIP",
+    "description": "Customer cannot download premium files.",
+    "customer": "Benjamin Hill",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-08-21"
+  },
+  {
+    "id": 156,
+    "title": "App update failed",
+    "social_media": "VIP",
+    "description": "VIP app update from app store fails repeatedly.",
+    "customer": "Amelia Green",
+    "priority": "Low",
+    "status": "Closed",
+    "createdAt": "2025-06-10"
+  },
+  {
+    "id": 157,
+    "title": "Notification sound missing",
+    "social_media": "VIP",
+    "description": "No sound plays for VIP notifications.",
+    "customer": "Ethan Adams",
+    "priority": "Low",
+    "status": "Closed",
+    "createdAt": "2025-07-24"
+  },
+  {
+    "id": 158,
+    "title": "Search feature broken",
+    "social_media": "VIP",
+    "description": "Searching for content returns no results.",
+    "customer": "Ella Parker",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2025-06-12"
+  },
+  {
+    "id": 159,
+    "title": "Chat feature not working",
+    "social_media": "VIP",
+    "description": "Customer cannot send messages within VIP app.",
+    "customer": "Jack Rivera",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-07-29"
+  },
+  {
+    "id": 160,
+    "title": "Login with Google failed",
+    "social_media": "VIP",
+    "description": "Google account login integration not working.",
+    "customer": "Grace Foster",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-08-22"
+  },
+  {
+    "id": 161,
+    "title": "Login issue",
+    "social_media": "Viber",
+    "description": "User cannot log into Viber account with valid credentials.",
+    "customer": "Oliver Bennett",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-08-01"
+  },
+  {
+    "id": 162,
+    "title": "Message sending failed",
+    "social_media": "Viber",
+    "description": "Messages are not being delivered to contacts.",
+    "customer": "Emma Carter",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-07-15"
+  },
+  {
+    "id": 163,
+    "title": "Media not downloading",
+    "social_media": "Viber",
+    "description": "Customer cannot download photos or videos sent to them.",
+    "customer": "Liam Harris",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2025-06-25"
+  },
+  {
+    "id": 164,
+    "title": "Notification delay",
+    "social_media": "Viber",
+    "description": "Push notifications arrive late or not at all.",
+    "customer": "Sophia Young",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-07-29"
+  },
+  {
+    "id": 165,
+    "title": "Group chat creation failed",
+    "social_media": "Viber",
+    "description": "Unable to create new group chats; error message shown.",
+    "customer": "Mason Walker",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-08-11"
+  },
+  {
+    "id": 166,
+    "title": "App crashing",
+    "social_media": "Viber",
+    "description": "Viber crashes immediately after launch.",
+    "customer": "Ava Johnson",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2025-06-20"
+  },
+  {
+    "id": 167,
+    "title": "Voice messages not playing",
+    "social_media": "Viber",
+    "description": "Voice messages cannot be played in chats.",
+    "customer": "Elijah Lewis",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-07-30"
+  },
+  {
+    "id": 168,
+    "title": "Sticker pack not installing",
+    "social_media": "Viber",
+    "description": "Customer cannot add new sticker packs to account.",
+    "customer": "Charlotte Martinez",
+    "priority": "Low",
+    "status": "Closed",
+    "createdAt": "2025-05-22"
+  },
+  {
+    "id": 169,
+    "title": "Secret chat not working",
+    "social_media": "Viber",
+    "description": "Cannot start or access secret chats.",
+    "customer": "Logan Walker",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-08-09"
+  },
+  {
+    "id": 170,
+    "title": "Login via phone number failed",
+    "social_media": "Viber",
+    "description": "OTP not received to log in via phone number.",
+    "customer": "Isabella King",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-07-12"
+  },
+  {
+    "id": 171,
+    "title": "Archived chats missing",
+    "social_media": "Viber",
+    "description": "Archived chats vanish after app restart.",
+    "customer": "James Parker",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2025-06-21"
+  },
+  {
+    "id": 172,
+    "title": "Two-step verification failed",
+    "social_media": "Viber",
+    "description": "User cannot complete two-step verification setup.",
+    "customer": "Mia Lopez",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-07-23"
+  },
+  {
+    "id": 173,
+    "title": "Video calls not connecting",
+    "social_media": "Viber",
+    "description": "Customer’s video calls do not connect properly.",
+    "customer": "Alexander Young",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2025-08-14"
+  },
+  {
+    "id": 174,
+    "title": "File sharing failed",
+    "social_media": "Viber",
+    "description": "Customer cannot send documents or files in chat.",
+    "customer": "Charlotte Scott",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-07-07"
+  },
+  {
+    "id": 175,
+    "title": "App update failed",
+    "social_media": "Viber",
+    "description": "Viber update from app store fails repeatedly.",
+    "customer": "Benjamin Hill",
+    "priority": "Low",
+    "status": "Closed",
+    "createdAt": "2025-08-21"
+  },
+  {
+    "id": 176,
+    "title": "Notification sound missing",
+    "social_media": "Viber",
+    "description": "No sound plays for new messages.",
+    "customer": "Amelia Green",
+    "priority": "Low",
+    "status": "Closed",
+    "createdAt": "2025-06-10"
+  },
+  {
+    "id": 177,
+    "title": "Pinned message not showing",
+    "social_media": "Viber",
+    "description": "Pinned messages in groups or chats do not display.",
+    "customer": "Ethan Adams",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2025-07-24"
+  },
+  {
+    "id": 178,
+    "title": "Search not working",
+    "social_media": "Viber",
+    "description": "Searching for messages or chats returns blank results.",
+    "customer": "Ella Parker",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-06-12"
+  },
+  {
+    "id": 179,
+    "title": "Login with Google failed",
+    "social_media": "Viber",
+    "description": "Google account login integration not working.",
+    "customer": "Jack Rivera",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-07-29"
+  },
+  {
+    "id": 180,
+    "title": "Message search failed",
+    "social_media": "Viber",
+    "description": "Customer cannot search messages within chats.",
+    "customer": "Grace Foster",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2025-08-22"
+  },
+  [
+  {
+    "id": 181,
+    "title": "Login issue",
+    "social_media": "Skype",
+    "description": "User cannot log into Skype with valid credentials.",
+    "customer": "Oliver Bennett",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-08-01"
+  },
+  {
+    "id": 182,
+    "title": "Call not connecting",
+    "social_media": "Skype",
+    "description": "Audio and video calls fail to connect.",
+    "customer": "Emma Carter",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-07-15"
+  },
+  {
+    "id": 183,
+    "title": "Message sending failed",
+    "social_media": "Skype",
+    "description": "Messages are stuck in outbox and not delivered.",
+    "customer": "Liam Harris",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2025-06-25"
+  },
+  {
+    "id": 184,
+    "title": "Notification delay",
+    "social_media": "Skype",
+    "description": "Push notifications arrive late or not at all.",
+    "customer": "Sophia Young",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-07-29"
+  },
+  {
+    "id": 185,
+    "title": "Screen sharing not working",
+    "social_media": "Skype",
+    "description": "Customer cannot share screen during calls.",
+    "customer": "Mason Walker",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-08-11"
+  },
+  {
+    "id": 186,
+    "title": "App crashing",
+    "social_media": "Skype",
+    "description": "Skype crashes immediately after launch.",
+    "customer": "Ava Johnson",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2025-06-20"
+  },
+  {
+    "id": 187,
+    "title": "File transfer failed",
+    "social_media": "Skype",
+    "description": "Customer cannot send or receive files.",
+    "customer": "Elijah Lewis",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-07-30"
+  },
+  {
+    "id": 188,
+    "title": "Emoji/sticker not working",
+    "social_media": "Skype",
+    "description": "Customer cannot send emojis or stickers in chat.",
+    "customer": "Charlotte Martinez",
+    "priority": "Low",
+    "status": "Closed",
+    "createdAt": "2025-05-22"
+  },
+  {
+    "id": 189,
+    "title": "Contact list missing",
+    "social_media": "Skype",
+    "description": "Contacts are not visible in the app.",
+    "customer": "Logan Walker",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-08-09"
+  },
+  {
+    "id": 190,
+    "title": "Login via Microsoft account failed",
+    "social_media": "Skype",
+    "description": "User cannot log in using Microsoft account.",
+    "customer": "Isabella King",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-07-12"
+  },
+  {
+    "id": 191,
+    "title": "Group chat messages disappearing",
+    "social_media": "Skype",
+    "description": "Messages in group chats are missing randomly.",
+    "customer": "James Parker",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2025-06-21"
+  },
+  {
+    "id": 192,
+    "title": "Two-factor authentication failed",
+    "social_media": "Skype",
+    "description": "Customer cannot complete two-step verification setup.",
+    "customer": "Mia Lopez",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-07-23"
+  },
+  {
+    "id": 193,
+    "title": "Video call freezing",
+    "social_media": "Skype",
+    "description": "Video call stops or freezes mid-call.",
+    "customer": "Alexander Young",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2025-08-14"
+  },
+  {
+    "id": 194,
+    "title": "App update failed",
+    "social_media": "Skype",
+    "description": "Skype app update from store fails repeatedly.",
+    "customer": "Charlotte Scott",
+    "priority": "Low",
+    "status": "Closed",
+    "createdAt": "2025-07-07"
+  },
+  {
+    "id": 195,
+    "title": "Audio not working",
+    "social_media": "Skype",
+    "description": "Customer cannot hear other participants in calls.",
+    "customer": "Benjamin Hill",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-08-21"
+  },
+  {
+    "id": 196,
+    "title": "Notification sound missing",
+    "social_media": "Skype",
+    "description": "No sound plays for incoming messages.",
+    "customer": "Amelia Green",
+    "priority": "Low",
+    "status": "Closed",
+    "createdAt": "2025-06-10"
+  },
+  {
+    "id": 197,
+    "title": "Search not working",
+    "social_media": "Skype",
+    "description": "Searching for messages or contacts returns blank results.",
+    "customer": "Ethan Adams",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2025-07-24"
+  },
+  {
+    "id": 198,
+    "title": "Screen share lagging",
+    "social_media": "Skype",
+    "description": "Shared screen appears delayed or frozen.",
+    "customer": "Ella Parker",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-06-12"
+  },
+  {
+    "id": 199,
+    "title": "Login with Google failed",
+    "social_media": "Skype",
+    "description": "Google login integration not working.",
+    "customer": "Jack Rivera",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-07-29"
+  },
+  {
+    "id": 200,
+    "title": "Message search failed",
+    "social_media": "Skype",
+    "description": "Customer cannot search messages within chats.",
+    "customer": "Grace Foster",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2025-08-22"
+  }
+]
+
+]
