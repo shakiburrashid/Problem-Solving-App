@@ -199,7 +199,7 @@
     "status": "Open",
     "createdAt": "2025-08-20"
   },
-    {
+  {
     "id": 21,
     "title": "Login issue",
     "social_media": "Facebook",
@@ -1799,7 +1799,6 @@
     "status": "In Progress",
     "createdAt": "2025-08-22"
   },
-  [
   {
     "id": 181,
     "title": "Login issue",
@@ -2000,6 +1999,4 @@
     "status": "In Progress",
     "createdAt": "2025-08-22"
   }
-]
-
 ]

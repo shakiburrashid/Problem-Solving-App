@@ -1,0 +1,1862 @@
+[
+    {
+        "id": 1,
+        "social_media": "Facebook",
+        "data": [
+            {
+                "id": 1,
+                "title": "Login issue",
+                "description": "User cannot log into Facebook with valid credentials.",
+                "customer": "John Doe",
+                "priority": "High",
+                "status": "Open",
+                "createdAt": "2025-08-12"
+            },
+            {
+                "id": 2,
+                "title": "Password reset not working",
+                "description": "Password reset link is not being sent to the registered email.",
+                "customer": "Jane Smith",
+                "priority": "Medium",
+                "status": "Open",
+                "createdAt": "2025-07-25"
+            },
+            {
+                "id": 3,
+                "title": "Two-factor authentication problem",
+                "description": "User is not receiving OTP for two-factor authentication.",
+                "customer": "Michael Johnson",
+                "priority": "High",
+                "status": "In Progress",
+                "createdAt": "2025-06-15"
+            },
+            {
+                "id": 4,
+                "title": "Post not publishing",
+                "description": "User is unable to publish posts on timeline.",
+                "customer": "Emily Davis",
+                "priority": "Low",
+                "status": "Closed",
+                "createdAt": "2025-05-30"
+            },
+            {
+                "id": 5,
+                "title": "Messenger not loading",
+                "description": "Messenger keeps showing loading screen indefinitely.",
+                "customer": "David Wilson",
+                "priority": "High",
+                "status": "Open",
+                "createdAt": "2025-08-02"
+            },
+            {
+                "id": 6,
+                "title": "Account hacked",
+                "description": "Customer’s account is compromised and suspicious activities are found.",
+                "customer": "Sophia Brown",
+                "priority": "High",
+                "status": "Open",
+                "createdAt": "2025-08-14"
+            },
+            {
+                "id": 7,
+                "title": "Ad payment failed",
+                "description": "Transaction failed while paying for an advertisement.",
+                "customer": "James Taylor",
+                "priority": "Medium",
+                "status": "In Progress",
+                "createdAt": "2025-07-05"
+            },
+            {
+                "id": 8,
+                "title": "Video upload stuck",
+                "description": "Videos are not uploading beyond 95%.",
+                "customer": "Olivia Martin",
+                "priority": "Medium",
+                "status": "Open",
+                "createdAt": "2025-06-19"
+            },
+            {
+                "id": 9,
+                "title": "Group invite issue",
+                "description": "User cannot invite friends to a Facebook group.",
+                "customer": "Daniel Lee",
+                "priority": "Low",
+                "status": "Closed",
+                "createdAt": "2025-04-23"
+            },
+            {
+                "id": 10,
+                "title": "Friend request not working",
+                "description": "Customer cannot send friend requests to anyone.",
+                "customer": "Isabella Garcia",
+                "priority": "Medium",
+                "status": "Open",
+                "createdAt": "2025-08-09"
+            },
+            {
+                "id": 11,
+                "title": "Reels not visible",
+                "description": "Reels are not showing up on the customer’s account.",
+                "customer": "William Harris",
+                "priority": "Low",
+                "status": "Closed",
+                "createdAt": "2025-03-14"
+            },
+            {
+                "id": 12,
+                "title": "Page admin rights missing",
+                "description": "Customer lost admin access to their business page.",
+                "customer": "Mia Clark",
+                "priority": "High",
+                "status": "Open",
+                "createdAt": "2025-07-29"
+            },
+            {
+                "id": 13,
+                "title": "Commenting restricted",
+                "description": "User cannot comment on any posts.",
+                "customer": "Alexander Lewis",
+                "priority": "Medium",
+                "status": "In Progress",
+                "createdAt": "2025-08-03"
+            },
+            {
+                "id": 14,
+                "title": "Notification delay",
+                "description": "Notifications are delayed by several hours.",
+                "customer": "Charlotte Young",
+                "priority": "Low",
+                "status": "Closed",
+                "createdAt": "2025-02-18"
+            },
+            {
+                "id": 15,
+                "title": "Marketplace access denied",
+                "description": "Customer cannot access Facebook Marketplace.",
+                "customer": "Benjamin Hall",
+                "priority": "High",
+                "status": "Open",
+                "createdAt": "2025-08-05"
+            },
+            {
+                "id": 16,
+                "title": "Tagged photos missing",
+                "description": "Photos tagged with customer’s name are not appearing.",
+                "customer": "Amelia Allen",
+                "priority": "Medium",
+                "status": "Closed",
+                "createdAt": "2025-05-21"
+            },
+            {
+                "id": 17,
+                "title": "App crashing frequently",
+                "description": "Facebook app crashes on opening after update.",
+                "customer": "Ethan Wright",
+                "priority": "High",
+                "status": "In Progress",
+                "createdAt": "2025-08-16"
+            },
+            {
+                "id": 18,
+                "title": "Stories not uploading",
+                "description": "Stories are not uploading for the customer.",
+                "customer": "Harper Scott",
+                "priority": "Medium",
+                "status": "Open",
+                "createdAt": "2025-07-08"
+            },
+            {
+                "id": 19,
+                "title": "Language settings issue",
+                "description": "Customer cannot change language settings in app.",
+                "customer": "Lucas King",
+                "priority": "Low",
+                "status": "Closed",
+                "createdAt": "2025-06-12"
+            },
+            {
+                "id": 20,
+                "title": "Business suite login error",
+                "description": "User cannot log into Facebook Business Suite.",
+                "customer": "Ava Lopez",
+                "priority": "High",
+                "status": "Open",
+                "createdAt": "2025-08-20"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "social_media": "Instagram",
+        "data": [
+            {
+                "id": 1,
+                "title": "Login issue",
+                "description": "User cannot log into Instagram account despite correct credentials.",
+                "customer": "Alice Johnson",
+                "priority": "High",
+                "status": "Open",
+                "createdAt": "2025-01-14"
+            },
+            {
+                "id": 2,
+                "title": "Story upload failed",
+                "description": "Stories are not uploading and showing error.",
+                "customer": "Michael Smith",
+                "priority": "Medium",
+                "status": "In Progress",
+                "createdAt": "2025-02-05"
+            },
+            {
+                "id": 3,
+                "title": "Hashtag not working",
+                "description": "Posts are not showing under hashtags.",
+                "customer": "Emma Wilson",
+                "priority": "Low",
+                "status": "Open",
+                "createdAt": "2025-03-18"
+            },
+            {
+                "id": 4,
+                "title": "Reel audio missing",
+                "description": "User-reported missing audio after uploading Reels.",
+                "customer": "David Brown",
+                "priority": "High",
+                "status": "Closed",
+                "createdAt": "2025-04-22"
+            },
+            {
+                "id": 5,
+                "title": "Direct messages not loading",
+                "description": "Instagram DMs keep showing a blank screen.",
+                "customer": "Sophia Miller",
+                "priority": "High",
+                "status": "Open",
+                "createdAt": "2025-05-09"
+            },
+            {
+                "id": 6,
+                "title": "Account temporarily locked",
+                "description": "User’s account was locked without reason.",
+                "customer": "Daniel Garcia",
+                "priority": "High",
+                "status": "In Progress",
+                "createdAt": "2025-06-03"
+            },
+            {
+                "id": 7,
+                "title": "Profile picture upload error",
+                "description": "Unable to change or update profile picture.",
+                "customer": "Olivia Martinez",
+                "priority": "Medium",
+                "status": "Open",
+                "createdAt": "2025-07-11"
+            },
+            {
+                "id": 8,
+                "title": "Feed not refreshing",
+                "description": "Instagram feed is stuck and not updating.",
+                "customer": "James Anderson",
+                "priority": "High",
+                "status": "Closed",
+                "createdAt": "2025-07-29"
+            },
+            {
+                "id": 9,
+                "title": "Comments disappearing",
+                "description": "Comments on posts vanish after posting.",
+                "customer": "Mia Lee",
+                "priority": "Medium",
+                "status": "Open",
+                "createdAt": "2025-08-15"
+            },
+            {
+                "id": 10,
+                "title": "Account hacked",
+                "description": "Customer reported unauthorized access to account.",
+                "customer": "William Harris",
+                "priority": "High",
+                "status": "In Progress",
+                "createdAt": "2025-09-01"
+            },
+            {
+                "id": 11,
+                "title": "Followers count issue",
+                "description": "Followers count decreasing suddenly without reason.",
+                "customer": "Charlotte Clark",
+                "priority": "Medium",
+                "status": "Open",
+                "createdAt": "2025-09-19"
+            },
+            {
+                "id": 12,
+                "title": "Notifications not working",
+                "description": "Push notifications are not being received.",
+                "customer": "Benjamin Lewis",
+                "priority": "Low",
+                "status": "Closed",
+                "createdAt": "2025-10-05"
+            },
+            {
+                "id": 13,
+                "title": "Ads showing incorrectly",
+                "description": "User reports irrelevant or repeated ads.",
+                "customer": "Amelia Robinson",
+                "priority": "Low",
+                "status": "Open",
+                "createdAt": "2025-10-22"
+            },
+            {
+                "id": 14,
+                "title": "Caption edit not saving",
+                "description": "Edits to captions are not being updated.",
+                "customer": "Lucas Walker",
+                "priority": "Medium",
+                "status": "Open",
+                "createdAt": "2025-11-02"
+            },
+            {
+                "id": 15,
+                "title": "Blocked user still visible",
+                "description": "Blocked accounts still appear in searches.",
+                "customer": "Harper Hall",
+                "priority": "Medium",
+                "status": "Closed",
+                "createdAt": "2025-11-18"
+            },
+            {
+                "id": 16,
+                "title": "Video upload stuck",
+                "description": "Videos are stuck during uploading process.",
+                "customer": "Henry Allen",
+                "priority": "High",
+                "status": "Open",
+                "createdAt": "2025-12-03"
+            },
+            {
+                "id": 17,
+                "title": "Account recovery failed",
+                "description": "User unable to recover account via email or phone.",
+                "customer": "Evelyn Young",
+                "priority": "High",
+                "status": "In Progress",
+                "createdAt": "2025-12-11"
+            },
+            {
+                "id": 18,
+                "title": "Location tag missing",
+                "description": "Unable to add locations to posts.",
+                "customer": "Alexander King",
+                "priority": "Low",
+                "status": "Open",
+                "createdAt": "2025-12-20"
+            },
+            {
+                "id": 19,
+                "title": "Reel views not updating",
+                "description": "Reel views are stuck and not increasing.",
+                "customer": "Ella Wright",
+                "priority": "Medium",
+                "status": "Closed",
+                "createdAt": "2025-12-24"
+            },
+            {
+                "id": 20,
+                "title": "Stories disappear early",
+                "description": "Instagram stories vanish before 24 hours.",
+                "customer": "Jack Scott",
+                "priority": "High",
+                "status": "Open",
+                "createdAt": "2025-12-27"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "social_media": "Twitter",
+        "data": [
+            {
+                "id": 1,
+                "title": "Login authentication failed",
+                "description": "Users are unable to log in using two-factor authentication.",
+                "customer": "Alice Morgan",
+                "priority": "High",
+                "status": "Open",
+                "createdAt": "2025-01-08"
+            },
+            {
+                "id": 2,
+                "title": "Tweet not posting",
+                "description": "Some users report tweets are not publishing.",
+                "customer": "Brian Carter",
+                "priority": "High",
+                "status": "In Progress",
+                "createdAt": "2025-01-25"
+            },
+            {
+                "id": 3,
+                "title": "DMs not sending",
+                "description": "Direct messages are stuck and not delivered.",
+                "customer": "Clara Evans",
+                "priority": "Medium",
+                "status": "Open",
+                "createdAt": "2025-02-11"
+            },
+            {
+                "id": 4,
+                "title": "Profile image update issue",
+                "description": "Unable to update or change profile pictures.",
+                "customer": "Daniel Lee",
+                "priority": "Low",
+                "status": "Closed",
+                "createdAt": "2025-02-27"
+            },
+            {
+                "id": 5,
+                "title": "Trending topics missing",
+                "description": "Trending topics are not visible for some users.",
+                "customer": "Emma Thompson",
+                "priority": "Medium",
+                "status": "Open",
+                "createdAt": "2025-03-10"
+            },
+            {
+                "id": 6,
+                "title": "Hashtags not working",
+                "description": "Tweets are not appearing under selected hashtags.",
+                "customer": "Frank Adams",
+                "priority": "Low",
+                "status": "Open",
+                "createdAt": "2025-03-28"
+            },
+            {
+                "id": 7,
+                "title": "Account locked",
+                "description": "User account is locked without any warning.",
+                "customer": "Grace Miller",
+                "priority": "High",
+                "status": "In Progress",
+                "createdAt": "2025-04-14"
+            },
+            {
+                "id": 8,
+                "title": "Retweet button not responding",
+                "description": "Users cannot retweet posts.",
+                "customer": "Henry Wilson",
+                "priority": "Medium",
+                "status": "Open",
+                "createdAt": "2025-05-01"
+            },
+            {
+                "id": 9,
+                "title": "Video upload failed",
+                "description": "Videos fail to upload after 30 seconds.",
+                "customer": "Isabella Brown",
+                "priority": "High",
+                "status": "Closed",
+                "createdAt": "2025-05-18"
+            },
+            {
+                "id": 10,
+                "title": "Spaces not starting",
+                "description": "Twitter Spaces cannot be started by hosts.",
+                "customer": "Jack Robinson",
+                "priority": "High",
+                "status": "Open",
+                "createdAt": "2025-06-02"
+            },
+            {
+                "id": 11,
+                "title": "Notification delay",
+                "description": "Push notifications are delayed by hours.",
+                "customer": "Katie Hall",
+                "priority": "Medium",
+                "status": "Open",
+                "createdAt": "2025-06-21"
+            },
+            {
+                "id": 12,
+                "title": "Followers not updating",
+                "description": "Follower count is stuck and not refreshing.",
+                "customer": "Liam Harris",
+                "priority": "Medium",
+                "status": "Closed",
+                "createdAt": "2025-07-07"
+            },
+            {
+                "id": 13,
+                "title": "Bookmarks not saving",
+                "description": "Saved tweets are not appearing in bookmarks.",
+                "customer": "Mia Collins",
+                "priority": "Low",
+                "status": "Open",
+                "createdAt": "2025-07-25"
+            },
+            {
+                "id": 14,
+                "title": "Muted accounts still visible",
+                "description": "Muted accounts still appear in feed.",
+                "customer": "Noah Parker",
+                "priority": "Low",
+                "status": "Closed",
+                "createdAt": "2025-08-03"
+            },
+            {
+                "id": 15,
+                "title": "Link previews not loading",
+                "description": "Shared links do not generate previews.",
+                "customer": "Olivia Scott",
+                "priority": "Medium",
+                "status": "Open",
+                "createdAt": "2025-08-19"
+            },
+            {
+                "id": 16,
+                "title": "Account recovery failed",
+                "description": "User unable to reset password via email.",
+                "customer": "Paul Turner",
+                "priority": "High",
+                "status": "In Progress",
+                "createdAt": "2025-09-04"
+            },
+            {
+                "id": 17,
+                "title": "GIFs not loading",
+                "description": "GIFs are failing to load in tweets.",
+                "customer": "Quinn Edwards",
+                "priority": "Low",
+                "status": "Open",
+                "createdAt": "2025-09-20"
+            },
+            {
+                "id": 18,
+                "title": "Tweet character count bug",
+                "description": "Users cannot use full 280 characters.",
+                "customer": "Rachel Martin",
+                "priority": "Medium",
+                "status": "Closed",
+                "createdAt": "2025-10-02"
+            },
+            {
+                "id": 19,
+                "title": "Blue check verification issue",
+                "description": "Verified accounts losing their badge.",
+                "customer": "Samuel Green",
+                "priority": "High",
+                "status": "Open",
+                "createdAt": "2025-10-19"
+            },
+            {
+                "id": 20,
+                "title": "Pinned tweet disappearing",
+                "description": "Pinned tweets unpin automatically after refresh.",
+                "customer": "Tina White",
+                "priority": "Medium",
+                "status": "Open",
+                "createdAt": "2025-11-05"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "social_media": "LinkedIn",
+        "data": [
+            {
+                "id": 1,
+                "title": "Login issue",
+                "description": "User cannot log into LinkedIn despite correct credentials.",
+                "customer": "Alice Walker",
+                "priority": "High",
+                "status": "Open",
+                "createdAt": "2025-01-12"
+            },
+            {
+                "id": 2,
+                "title": "Profile update not saving",
+                "description": "Profile details such as headline and summary are not updating.",
+                "customer": "Brian Cooper",
+                "priority": "Medium",
+                "status": "In Progress",
+                "createdAt": "2025-01-30"
+            },
+            {
+                "id": 3,
+                "title": "Connection requests failing",
+                "description": "Unable to send or accept connection requests.",
+                "customer": "Charlotte Perez",
+                "priority": "High",
+                "status": "Open",
+                "createdAt": "2025-02-15"
+            },
+            {
+                "id": 4,
+                "title": "Messages not delivered",
+                "description": "Direct messages in LinkedIn inbox are not reaching recipients.",
+                "customer": "Daniel Morris",
+                "priority": "Medium",
+                "status": "Closed",
+                "createdAt": "2025-02-27"
+            },
+            {
+                "id": 5,
+                "title": "Job applications not submitting",
+                "description": "Users unable to apply for jobs directly through LinkedIn.",
+                "customer": "Emma Rogers",
+                "priority": "High",
+                "status": "Open",
+                "createdAt": "2025-03-08"
+            },
+            {
+                "id": 6,
+                "title": "Skill endorsements missing",
+                "description": "Endorsements for skills are disappearing from profiles.",
+                "customer": "Frank Peterson",
+                "priority": "Low",
+                "status": "Open",
+                "createdAt": "2025-03-23"
+            },
+            {
+                "id": 7,
+                "title": "Notifications not loading",
+                "description": "Bell notifications are blank or delayed.",
+                "customer": "Grace Mitchell",
+                "priority": "Medium",
+                "status": "In Progress",
+                "createdAt": "2025-04-06"
+            },
+            {
+                "id": 8,
+                "title": "Company page access issue",
+                "description": "Admins unable to access or edit their company pages.",
+                "customer": "Henry Adams",
+                "priority": "High",
+                "status": "Open",
+                "createdAt": "2025-04-20"
+            },
+            {
+                "id": 9,
+                "title": "Post not publishing",
+                "description": "User-created posts fail to publish or disappear.",
+                "customer": "Isabella Foster",
+                "priority": "High",
+                "status": "Closed",
+                "createdAt": "2025-05-02"
+            },
+            {
+                "id": 10,
+                "title": "Job alerts not updating",
+                "description": "Saved job alerts are not sending notifications.",
+                "customer": "Jack Russell",
+                "priority": "Medium",
+                "status": "Open",
+                "createdAt": "2025-05-19"
+            },
+            {
+                "id": 11,
+                "title": "Search not working",
+                "description": "People and job search results are not appearing.",
+                "customer": "Katie Morgan",
+                "priority": "High",
+                "status": "In Progress",
+                "createdAt": "2025-06-01"
+            },
+            {
+                "id": 12,
+                "title": "Blocked users still visible",
+                "description": "Blocked accounts continue to appear in feed.",
+                "customer": "Liam Edwards",
+                "priority": "Low",
+                "status": "Closed",
+                "createdAt": "2025-06-18"
+            },
+            {
+                "id": 13,
+                "title": "Resume upload failed",
+                "description": "Users unable to upload resumes for job applications.",
+                "customer": "Mia Brooks",
+                "priority": "High",
+                "status": "Open",
+                "createdAt": "2025-07-05"
+            },
+            {
+                "id": 14,
+                "title": "Groups not loading",
+                "description": "LinkedIn groups fail to load or display content.",
+                "customer": "Noah Campbell",
+                "priority": "Medium",
+                "status": "Open",
+                "createdAt": "2025-07-21"
+            },
+            {
+                "id": 15,
+                "title": "Reactions not registering",
+                "description": "Likes and other reactions on posts are not saving.",
+                "customer": "Olivia Gray",
+                "priority": "Low",
+                "status": "Closed",
+                "createdAt": "2025-08-02"
+            },
+            {
+                "id": 16,
+                "title": "Event creation error",
+                "description": "Users cannot create or manage LinkedIn events.",
+                "customer": "Paul Jenkins",
+                "priority": "High",
+                "status": "Open",
+                "createdAt": "2025-08-15"
+            },
+            {
+                "id": 17,
+                "title": "Premium subscription not activated",
+                "description": "Paid LinkedIn Premium subscription is not reflecting on account.",
+                "customer": "Rachel King",
+                "priority": "High",
+                "status": "In Progress",
+                "createdAt": "2025-08-30"
+            },
+            {
+                "id": 18,
+                "title": "Profile views count stuck",
+                "description": "Profile view statistics are not updating.",
+                "customer": "Samuel Diaz",
+                "priority": "Medium",
+                "status": "Open",
+                "createdAt": "2025-09-12"
+            },
+            {
+                "id": 19,
+                "title": "Jobs not loading",
+                "description": "Job listings are failing to display.",
+                "customer": "Tina Holmes",
+                "priority": "High",
+                "status": "Closed",
+                "createdAt": "2025-09-28"
+            },
+            {
+                "id": 20,
+                "title": "Invitations disappearing",
+                "description": "Sent invitations vanish without acceptance or decline.",
+                "customer": "Umar Lewis",
+                "priority": "Low",
+                "status": "Open",
+                "createdAt": "2025-10-10"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "social_media": "Pinterest",
+        "data": [
+            {
+                "id": 1,
+                "title": "Login error",
+                "description": "Users unable to log in using correct email and password.",
+                "customer": "Alice Johnson",
+                "priority": "High",
+                "status": "Open",
+                "createdAt": "2025-01-05"
+            },
+            {
+                "id": 2,
+                "title": "Pins not saving",
+                "description": "Users report saved pins are not appearing in their boards.",
+                "customer": "Brian Carter",
+                "priority": "High",
+                "status": "In Progress",
+                "createdAt": "2025-01-22"
+            },
+            {
+                "id": 3,
+                "title": "Board creation failed",
+                "description": "Unable to create new boards on desktop and mobile.",
+                "customer": "Clara Evans",
+                "priority": "Medium",
+                "status": "Open",
+                "createdAt": "2025-02-08"
+            },
+            {
+                "id": 4,
+                "title": "Images not loading",
+                "description": "Pins are showing broken images instead of thumbnails.",
+                "customer": "Daniel Lee",
+                "priority": "High",
+                "status": "Closed",
+                "createdAt": "2025-02-25"
+            },
+            {
+                "id": 5,
+                "title": "Search results missing",
+                "description": "Pinterest search is not displaying any results.",
+                "customer": "Emma Thompson",
+                "priority": "High",
+                "status": "Open",
+                "createdAt": "2025-03-11"
+            },
+            {
+                "id": 6,
+                "title": "Notifications delayed",
+                "description": "Users receiving delayed or no notifications.",
+                "customer": "Frank Adams",
+                "priority": "Medium",
+                "status": "Open",
+                "createdAt": "2025-03-29"
+            },
+            {
+                "id": 7,
+                "title": "Pin upload failed",
+                "description": "Users unable to upload custom images to create new pins.",
+                "customer": "Grace Miller",
+                "priority": "High",
+                "status": "In Progress",
+                "createdAt": "2025-04-12"
+            },
+            {
+                "id": 8,
+                "title": "Following not working",
+                "description": "Following creators does not reflect in feed.",
+                "customer": "Henry Wilson",
+                "priority": "Low",
+                "status": "Open",
+                "createdAt": "2025-04-28"
+            },
+            {
+                "id": 9,
+                "title": "Comments disappearing",
+                "description": "Comments on pins vanish after posting.",
+                "customer": "Isabella Brown",
+                "priority": "Medium",
+                "status": "Closed",
+                "createdAt": "2025-05-14"
+            },
+            {
+                "id": 10,
+                "title": "Broken video pins",
+                "description": "Video pins are not playing for some users.",
+                "customer": "Jack Robinson",
+                "priority": "High",
+                "status": "Open",
+                "createdAt": "2025-06-01"
+            },
+            {
+                "id": 11,
+                "title": "Pinterest app crashing",
+                "description": "Mobile app crashes immediately after opening.",
+                "customer": "Katie Hall",
+                "priority": "High",
+                "status": "In Progress",
+                "createdAt": "2025-06-19"
+            },
+            {
+                "id": 12,
+                "title": "Saved ideas missing",
+                "description": "Saved ideas section shows empty despite saved pins.",
+                "customer": "Liam Harris",
+                "priority": "Medium",
+                "status": "Open",
+                "createdAt": "2025-07-04"
+            },
+            {
+                "id": 13,
+                "title": "Pin links broken",
+                "description": "External links attached to pins do not open.",
+                "customer": "Mia Collins",
+                "priority": "Low",
+                "status": "Closed",
+                "createdAt": "2025-07-21"
+            },
+            {
+                "id": 14,
+                "title": "Feed not updating",
+                "description": "Home feed is stuck and does not refresh.",
+                "customer": "Noah Parker",
+                "priority": "High",
+                "status": "Open",
+                "createdAt": "2025-08-02"
+            },
+            {
+                "id": 15,
+                "title": "Account temporarily suspended",
+                "description": "User account suspended without clear reason.",
+                "customer": "Olivia Scott",
+                "priority": "High",
+                "status": "Closed",
+                "createdAt": "2025-08-17"
+            },
+            {
+                "id": 16,
+                "title": "Group boards not loading",
+                "description": "Shared group boards are not accessible to members.",
+                "customer": "Paul Turner",
+                "priority": "Medium",
+                "status": "Open",
+                "createdAt": "2025-09-01"
+            },
+            {
+                "id": 17,
+                "title": "Pinterest ads not displaying",
+                "description": "Promoted pins and ads are not showing up.",
+                "customer": "Quinn Edwards",
+                "priority": "Low",
+                "status": "Open",
+                "createdAt": "2025-09-20"
+            },
+            {
+                "id": 18,
+                "title": "Account recovery failed",
+                "description": "Password reset link not being received.",
+                "customer": "Rachel Martin",
+                "priority": "High",
+                "status": "In Progress",
+                "createdAt": "2025-10-03"
+            },
+            {
+                "id": 19,
+                "title": "Invite collaborators error",
+                "description": "Users cannot invite collaborators to boards.",
+                "customer": "Samuel Green",
+                "priority": "Medium",
+                "status": "Closed",
+                "createdAt": "2025-10-19"
+            },
+            {
+                "id": 20,
+                "title": "Pins disappearing",
+                "description": "Pins saved by users are vanishing from boards.",
+                "customer": "Tina White",
+                "priority": "High",
+                "status": "Open",
+                "createdAt": "2025-11-06"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "social_media": "WhatsApp",
+        "data": [
+            {
+                "id": 1,
+                "title": "Message not delivered",
+                "description": "Messages remain stuck on one tick and do not reach recipients.",
+                "customer": "Alice Johnson",
+                "priority": "High",
+                "status": "Open",
+                "createdAt": "2025-01-06"
+            },
+            {
+                "id": 2,
+                "title": "Media not downloading",
+                "description": "Images and videos fail to download in chats.",
+                "customer": "Brian Carter",
+                "priority": "High",
+                "status": "In Progress",
+                "createdAt": "2025-01-20"
+            },
+            {
+                "id": 3,
+                "title": "App crashing",
+                "description": "WhatsApp app closes automatically after opening.",
+                "customer": "Clara Evans",
+                "priority": "High",
+                "status": "Closed",
+                "createdAt": "2025-02-04"
+            },
+            {
+                "id": 4,
+                "title": "Voice call failure",
+                "description": "Unable to connect voice calls on mobile data.",
+                "customer": "Daniel Lee",
+                "priority": "Medium",
+                "status": "Open",
+                "createdAt": "2025-02-19"
+            },
+            {
+                "id": 5,
+                "title": "Video call lagging",
+                "description": "Video calls are choppy and disconnect frequently.",
+                "customer": "Emma Thompson",
+                "priority": "Medium",
+                "status": "Open",
+                "createdAt": "2025-03-02"
+            },
+            {
+                "id": 6,
+                "title": "Contacts not syncing",
+                "description": "New phone contacts are not appearing in WhatsApp.",
+                "customer": "Frank Adams",
+                "priority": "Low",
+                "status": "Open",
+                "createdAt": "2025-03-15"
+            },
+            {
+                "id": 7,
+                "title": "Backup not working",
+                "description": "Google Drive backup is stuck and fails to complete.",
+                "customer": "Grace Miller",
+                "priority": "High",
+                "status": "In Progress",
+                "createdAt": "2025-03-30"
+            },
+            {
+                "id": 8,
+                "title": "Notifications delayed",
+                "description": "Messages are received late unless app is opened.",
+                "customer": "Henry Wilson",
+                "priority": "Medium",
+                "status": "Open",
+                "createdAt": "2025-04-11"
+            },
+            {
+                "id": 9,
+                "title": "Two-step verification issue",
+                "description": "Unable to reset PIN for two-step verification.",
+                "customer": "Isabella Brown",
+                "priority": "High",
+                "status": "Closed",
+                "createdAt": "2025-04-27"
+            },
+            {
+                "id": 10,
+                "title": "Group chat limit",
+                "description": "Users complain about limit of 1024 participants in groups.",
+                "customer": "Jack Robinson",
+                "priority": "Low",
+                "status": "Open",
+                "createdAt": "2025-05-08"
+            },
+            {
+                "id": 11,
+                "title": "Status not uploading",
+                "description": "Photos and videos fail to upload to WhatsApp Status.",
+                "customer": "Katie Hall",
+                "priority": "Medium",
+                "status": "Open",
+                "createdAt": "2025-05-22"
+            },
+            {
+                "id": 12,
+                "title": "Web QR code not scanning",
+                "description": "Unable to log in to WhatsApp Web using QR code.",
+                "customer": "Liam Harris",
+                "priority": "High",
+                "status": "In Progress",
+                "createdAt": "2025-06-06"
+            },
+            {
+                "id": 13,
+                "title": "Disappearing messages bug",
+                "description": "Disappearing messages are not deleting after set time.",
+                "customer": "Mia Collins",
+                "priority": "Medium",
+                "status": "Closed",
+                "createdAt": "2025-06-21"
+            },
+            {
+                "id": 14,
+                "title": "Sticker pack not loading",
+                "description": "Users unable to download sticker packs from store.",
+                "customer": "Noah Parker",
+                "priority": "Low",
+                "status": "Open",
+                "createdAt": "2025-07-03"
+            },
+            {
+                "id": 15,
+                "title": "Muted chats sending alerts",
+                "description": "Muted chats are still showing notifications.",
+                "customer": "Olivia Scott",
+                "priority": "Medium",
+                "status": "Open",
+                "createdAt": "2025-07-19"
+            },
+            {
+                "id": 16,
+                "title": "Account temporarily banned",
+                "description": "User reported account ban without explanation.",
+                "customer": "Paul Turner",
+                "priority": "High",
+                "status": "Closed",
+                "createdAt": "2025-08-01"
+            },
+            {
+                "id": 17,
+                "title": "Message reaction not working",
+                "description": "Emoji reactions are not appearing in group chats.",
+                "customer": "Quinn Edwards",
+                "priority": "Low",
+                "status": "Open",
+                "createdAt": "2025-08-15"
+            },
+            {
+                "id": 18,
+                "title": "Chats not restoring",
+                "description": "Chat history is not restoring after reinstalling WhatsApp.",
+                "customer": "Rachel Martin",
+                "priority": "High",
+                "status": "In Progress",
+                "createdAt": "2025-08-30"
+            },
+            {
+                "id": 19,
+                "title": "Profile picture not updating",
+                "description": "New profile picture is not visible to contacts.",
+                "customer": "Samuel Green",
+                "priority": "Medium",
+                "status": "Closed",
+                "createdAt": "2025-09-14"
+            },
+            {
+                "id": 20,
+                "title": "Message order scrambled",
+                "description": "Messages appear in the wrong order in chats.",
+                "customer": "Tina White",
+                "priority": "High",
+                "status": "Open",
+                "createdAt": "2025-09-29"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "social_media": "Telegram",
+        "data": [
+            {
+                "id": 1,
+                "title": "Login failed",
+                "description": "Users cannot log into Telegram with correct credentials.",
+                "customer": "Alice Johnson",
+                "priority": "High",
+                "status": "Open",
+                "createdAt": "2025-01-07"
+            },
+            {
+                "id": 2,
+                "title": "Messages not sending",
+                "description": "Messages are stuck and not delivered in chats.",
+                "customer": "Brian Carter",
+                "priority": "High",
+                "status": "In Progress",
+                "createdAt": "2025-01-21"
+            },
+            {
+                "id": 3,
+                "title": "Media files not downloading",
+                "description": "Images, videos, and documents fail to download in chats.",
+                "customer": "Clara Evans",
+                "priority": "Medium",
+                "status": "Open",
+                "createdAt": "2025-02-05"
+            },
+            {
+                "id": 4,
+                "title": "App crash on startup",
+                "description": "Telegram app crashes immediately after opening.",
+                "customer": "Daniel Lee",
+                "priority": "High",
+                "status": "Closed",
+                "createdAt": "2025-02-20"
+            },
+            {
+                "id": 5,
+                "title": "Voice call not connecting",
+                "description": "Cannot make voice calls; keeps ringing without connecting.",
+                "customer": "Emma Thompson",
+                "priority": "Medium",
+                "status": "Open",
+                "createdAt": "2025-03-03"
+            },
+            {
+                "id": 6,
+                "title": "Group messages delayed",
+                "description": "Group chat messages are delayed by several minutes.",
+                "customer": "Frank Adams",
+                "priority": "Medium",
+                "status": "Open",
+                "createdAt": "2025-03-16"
+            },
+            {
+                "id": 7,
+                "title": "Stickers not loading",
+                "description": "Sticker packs fail to load in chat interface.",
+                "customer": "Grace Miller",
+                "priority": "Low",
+                "status": "Open",
+                "createdAt": "2025-03-31"
+            },
+            {
+                "id": 8,
+                "title": "Notifications missing",
+                "description": "Push notifications are not received for new messages.",
+                "customer": "Henry Wilson",
+                "priority": "High",
+                "status": "In Progress",
+                "createdAt": "2025-04-12"
+            },
+            {
+                "id": 9,
+                "title": "Account temporarily banned",
+                "description": "User account blocked without warning.",
+                "customer": "Isabella Brown",
+                "priority": "High",
+                "status": "Open",
+                "createdAt": "2025-04-28"
+            },
+            {
+                "id": 10,
+                "title": "Telegram Web not working",
+                "description": "Cannot log in or sync messages on Telegram Web.",
+                "customer": "Jack Robinson",
+                "priority": "High",
+                "status": "Open",
+                "createdAt": "2025-05-09"
+            },
+            {
+                "id": 11,
+                "title": "Deleted messages still visible",
+                "description": "Deleted messages remain visible in some chats.",
+                "customer": "Katie Hall",
+                "priority": "Medium",
+                "status": "Closed",
+                "createdAt": "2025-05-23"
+            },
+            {
+                "id": 12,
+                "title": "Secret chats not opening",
+                "description": "Secret chat sessions fail to load on mobile app.",
+                "customer": "Liam Harris",
+                "priority": "Medium",
+                "status": "Open",
+                "createdAt": "2025-06-07"
+            },
+            {
+                "id": 13,
+                "title": "Message reactions not working",
+                "description": "Users cannot react to messages with emojis.",
+                "customer": "Mia Collins",
+                "priority": "Low",
+                "status": "Open",
+                "createdAt": "2025-06-22"
+            },
+            {
+                "id": 14,
+                "title": "Bots failing to respond",
+                "description": "Telegram bots not functioning or responding correctly.",
+                "customer": "Noah Parker",
+                "priority": "Medium",
+                "status": "In Progress",
+                "createdAt": "2025-07-04"
+            },
+            {
+                "id": 15,
+                "title": "Cloud chats not syncing",
+                "description": "Messages in cloud chats not appearing across devices.",
+                "customer": "Olivia Scott",
+                "priority": "High",
+                "status": "Open",
+                "createdAt": "2025-07-20"
+            },
+            {
+                "id": 16,
+                "title": "Media auto-download not working",
+                "description": "Auto-download settings not downloading media as configured.",
+                "customer": "Paul Turner",
+                "priority": "Low",
+                "status": "Open",
+                "createdAt": "2025-08-02"
+            },
+            {
+                "id": 17,
+                "title": "Group admin privileges lost",
+                "description": "Admins losing control or permissions in group chats.",
+                "customer": "Quinn Edwards",
+                "priority": "Medium",
+                "status": "Closed",
+                "createdAt": "2025-08-16"
+            },
+            {
+                "id": 18,
+                "title": "Account recovery failed",
+                "description": "Cannot recover account via SMS or email.",
+                "customer": "Rachel Martin",
+                "priority": "High",
+                "status": "In Progress",
+                "createdAt": "2025-08-31"
+            },
+            {
+                "id": 19,
+                "title": "Video calls lagging",
+                "description": "Video calls freeze and show poor connection.",
+                "customer": "Samuel Green",
+                "priority": "Medium",
+                "status": "Open",
+                "createdAt": "2025-09-15"
+            },
+            {
+                "id": 20,
+                "title": "Pinned messages disappearing",
+                "description": "Pinned messages in group chats are disappearing automatically.",
+                "customer": "Tina White",
+                "priority": "High",
+                "status": "Open",
+                "createdAt": "2025-09-30"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "social_media": "Vip",
+        "data": [
+            {
+                "id": 1,
+                "title": "Priority service login issue",
+                "description": "VIP user unable to access premium portal.",
+                "customer": "Alice Johnson",
+                "priority": "High",
+                "status": "Open",
+                "createdAt": "2025-01-10"
+            },
+            {
+                "id": 2,
+                "title": "Account upgrade failed",
+                "description": "VIP account upgrade did not process correctly.",
+                "customer": "Brian Carter",
+                "priority": "High",
+                "status": "In Progress",
+                "createdAt": "2025-01-28"
+            },
+            {
+                "id": 3,
+                "title": "Exclusive content not available",
+                "description": "VIP user cannot access premium content library.",
+                "customer": "Clara Evans",
+                "priority": "Medium",
+                "status": "Open",
+                "createdAt": "2025-02-12"
+            },
+            {
+                "id": 4,
+                "title": "Priority support not responding",
+                "description": "VIP support ticket not receiving response within SLA.",
+                "customer": "Daniel Lee",
+                "priority": "High",
+                "status": "Closed",
+                "createdAt": "2025-02-27"
+            },
+            {
+                "id": 5,
+                "title": "Payment processing error",
+                "description": "VIP subscription payment failed despite valid card.",
+                "customer": "Emma Thompson",
+                "priority": "High",
+                "status": "Open",
+                "createdAt": "2025-03-08"
+            },
+            {
+                "id": 6,
+                "title": "Feature access restriction",
+                "description": "VIP users unable to access newly released features.",
+                "customer": "Frank Adams",
+                "priority": "Medium",
+                "status": "Open",
+                "createdAt": "2025-03-24"
+            },
+            {
+                "id": 7,
+                "title": "Profile verification pending",
+                "description": "VIP profile verification is taking longer than promised.",
+                "customer": "Grace Miller",
+                "priority": "High",
+                "status": "In Progress",
+                "createdAt": "2025-04-09"
+            },
+            {
+                "id": 8,
+                "title": "Data export failure",
+                "description": "VIP users cannot export their data from the system.",
+                "customer": "Henry Wilson",
+                "priority": "Medium",
+                "status": "Open",
+                "createdAt": "2025-04-26"
+            },
+            {
+                "id": 9,
+                "title": "Custom report generation issue",
+                "description": "Generated reports are incomplete or incorrect.",
+                "customer": "Isabella Brown",
+                "priority": "High",
+                "status": "Closed",
+                "createdAt": "2025-05-10"
+            },
+            {
+                "id": 10,
+                "title": "App notifications delayed",
+                "description": "VIP app notifications are not received on time.",
+                "customer": "Jack Robinson",
+                "priority": "Medium",
+                "status": "Open",
+                "createdAt": "2025-05-27"
+            },
+            {
+                "id": 11,
+                "title": "Subscription renewal failed",
+                "description": "VIP subscription auto-renewal did not process.",
+                "customer": "Katie Hall",
+                "priority": "High",
+                "status": "In Progress",
+                "createdAt": "2025-06-11"
+            },
+            {
+                "id": 12,
+                "title": "Security alert ignored",
+                "description": "VIP user received security alert but no follow-up.",
+                "customer": "Liam Harris",
+                "priority": "High",
+                "status": "Open",
+                "createdAt": "2025-06-28"
+            },
+            {
+                "id": 13,
+                "title": "Exclusive event registration failed",
+                "description": "VIP user unable to register for premium event.",
+                "customer": "Mia Collins",
+                "priority": "Medium",
+                "status": "Closed",
+                "createdAt": "2025-07-13"
+            },
+            {
+                "id": 14,
+                "title": "Support chat disconnected",
+                "description": "VIP support chat drops unexpectedly during conversation.",
+                "customer": "Noah Parker",
+                "priority": "Medium",
+                "status": "Open",
+                "createdAt": "2025-07-29"
+            },
+            {
+                "id": 15,
+                "title": "Account migration issue",
+                "description": "VIP user cannot migrate account to new platform version.",
+                "customer": "Olivia Scott",
+                "priority": "High",
+                "status": "Open",
+                "createdAt": "2025-08-10"
+            },
+            {
+                "id": 16,
+                "title": "Custom settings not saving",
+                "description": "VIP account custom preferences are not retained.",
+                "customer": "Paul Turner",
+                "priority": "Medium",
+                "status": "Open",
+                "createdAt": "2025-08-26"
+            },
+            {
+                "id": 17,
+                "title": "Priority response delayed",
+                "description": "VIP ticket response time exceeded SLA.",
+                "customer": "Quinn Edwards",
+                "priority": "High",
+                "status": "In Progress",
+                "createdAt": "2025-09-11"
+            },
+            {
+                "id": 18,
+                "title": "Feature trial not applied",
+                "description": "VIP trial feature is not visible in account dashboard.",
+                "customer": "Rachel Martin",
+                "priority": "Low",
+                "status": "Open",
+                "createdAt": "2025-09-27"
+            },
+            {
+                "id": 19,
+                "title": "VIP dashboard error",
+                "description": "Dashboard fails to load charts and analytics correctly.",
+                "customer": "Samuel Green",
+                "priority": "Medium",
+                "status": "Closed",
+                "createdAt": "2025-10-08"
+            },
+            {
+                "id": 20,
+                "title": "Premium API access blocked",
+                "description": "VIP user API key stopped working unexpectedly.",
+                "customer": "Tina White",
+                "priority": "High",
+                "status": "Open",
+                "createdAt": "2025-10-24"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "social_media": "Viber",
+        "data": [
+            {
+                "id": 1,
+                "title": "Login failed",
+                "description": "Users cannot log into Viber using valid credentials.",
+                "customer": "Alice Johnson",
+                "priority": "High",
+                "status": "Open",
+                "createdAt": "2025-01-08"
+            },
+            {
+                "id": 2,
+                "title": "Messages not sending",
+                "description": "Text messages remain unsent in chats.",
+                "customer": "Brian Carter",
+                "priority": "High",
+                "status": "In Progress",
+                "createdAt": "2025-01-23"
+            },
+            {
+                "id": 3,
+                "title": "Media download error",
+                "description": "Images, videos, and voice notes fail to download.",
+                "customer": "Clara Evans",
+                "priority": "Medium",
+                "status": "Open",
+                "createdAt": "2025-02-07"
+            },
+            {
+                "id": 4,
+                "title": "App crashing",
+                "description": "Viber app closes immediately after opening.",
+                "customer": "Daniel Lee",
+                "priority": "High",
+                "status": "Closed",
+                "createdAt": "2025-02-22"
+            },
+            {
+                "id": 5,
+                "title": "Voice calls not connecting",
+                "description": "Users cannot make voice calls; call fails to connect.",
+                "customer": "Emma Thompson",
+                "priority": "High",
+                "status": "Open",
+                "createdAt": "2025-03-04"
+            },
+            {
+                "id": 6,
+                "title": "Video call lag",
+                "description": "Video calls freeze and disconnect frequently.",
+                "customer": "Frank Adams",
+                "priority": "Medium",
+                "status": "Open",
+                "createdAt": "2025-03-18"
+            },
+            {
+                "id": 7,
+                "title": "Contacts not syncing",
+                "description": "New phone contacts are not visible in Viber.",
+                "customer": "Grace Miller",
+                "priority": "Low",
+                "status": "Open",
+                "createdAt": "2025-04-02"
+            },
+            {
+                "id": 8,
+                "title": "Notifications delayed",
+                "description": "Push notifications for messages arrive late.",
+                "customer": "Henry Wilson",
+                "priority": "Medium",
+                "status": "Open",
+                "createdAt": "2025-04-15"
+            },
+            {
+                "id": 9,
+                "title": "Account temporarily banned",
+                "description": "Viber account blocked without explanation.",
+                "customer": "Isabella Brown",
+                "priority": "High",
+                "status": "Open",
+                "createdAt": "2025-05-01"
+            },
+            {
+                "id": 10,
+                "title": "Stickers not loading",
+                "description": "Sticker packs fail to appear in chats.",
+                "customer": "Jack Robinson",
+                "priority": "Low",
+                "status": "Open",
+                "createdAt": "2025-05-12"
+            },
+            {
+                "id": 11,
+                "title": "Message reactions not working",
+                "description": "Users cannot react to messages with emojis.",
+                "customer": "Katie Hall",
+                "priority": "Medium",
+                "status": "Open",
+                "createdAt": "2025-05-28"
+            },
+            {
+                "id": 12,
+                "title": "Group admin privileges lost",
+                "description": "Admins lose control or permissions in group chats.",
+                "customer": "Liam Harris",
+                "priority": "Medium",
+                "status": "Closed",
+                "createdAt": "2025-06-13"
+            },
+            {
+                "id": 13,
+                "title": "Cloud chats not syncing",
+                "description": "Messages not appearing on multiple devices.",
+                "customer": "Mia Collins",
+                "priority": "High",
+                "status": "In Progress",
+                "createdAt": "2025-06-27"
+            },
+            {
+                "id": 14,
+                "title": "Secret chats not opening",
+                "description": "Encrypted chats fail to load in mobile app.",
+                "customer": "Noah Parker",
+                "priority": "High",
+                "status": "Open",
+                "createdAt": "2025-07-05"
+            },
+            {
+                "id": 15,
+                "title": "Backup failed",
+                "description": "Viber backup to cloud storage fails to complete.",
+                "customer": "Olivia Scott",
+                "priority": "High",
+                "status": "Open",
+                "createdAt": "2025-07-21"
+            },
+            {
+                "id": 16,
+                "title": "Media auto-download not working",
+                "description": "Auto-download settings for images and videos not applied.",
+                "customer": "Paul Turner",
+                "priority": "Low",
+                "status": "Open",
+                "createdAt": "2025-08-03"
+            },
+            {
+                "id": 17,
+                "title": "Pinned messages disappearing",
+                "description": "Pinned messages in group chats vanish unexpectedly.",
+                "customer": "Quinn Edwards",
+                "priority": "Medium",
+                "status": "Closed",
+                "createdAt": "2025-08-17"
+            },
+            {
+                "id": 18,
+                "title": "Video messages not playing",
+                "description": "Sent video messages fail to play for recipients.",
+                "customer": "Rachel Martin",
+                "priority": "Medium",
+                "status": "Open",
+                "createdAt": "2025-09-01"
+            },
+            {
+                "id": 19,
+                "title": "Message order scrambled",
+                "description": "Messages appear out of sequence in chats.",
+                "customer": "Samuel Green",
+                "priority": "Medium",
+                "status": "Open",
+                "createdAt": "2025-09-18"
+            },
+            {
+                "id": 20,
+                "title": "Account recovery failed",
+                "description": "User cannot recover account via phone number or email.",
+                "customer": "Tina White",
+                "priority": "High",
+                "status": "In Progress",
+                "createdAt": "2025-09-30"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "social_media": "Skype",
+        "data": [
+            {
+                "id": 1,
+                "title": "Login failed",
+                "description": "User cannot log into Skype with correct credentials.",
+                "customer": "Alice Johnson",
+                "priority": "High",
+                "status": "Open",
+                "createdAt": "2025-01-09"
+            },
+            {
+                "id": 2,
+                "title": "Messages not sending",
+                "description": "Text messages are stuck and not delivered.",
+                "customer": "Brian Carter",
+                "priority": "High",
+                "status": "In Progress",
+                "createdAt": "2025-01-24"
+            },
+            {
+                "id": 3,
+                "title": "Audio call failure",
+                "description": "Audio calls fail to connect or drop immediately.",
+                "customer": "Clara Evans",
+                "priority": "High",
+                "status": "Open",
+                "createdAt": "2025-02-08"
+            },
+            {
+                "id": 4,
+                "title": "Video call lag",
+                "description": "Video calls freeze and show poor quality.",
+                "customer": "Daniel Lee",
+                "priority": "Medium",
+                "status": "Open",
+                "createdAt": "2025-02-23"
+            },
+            {
+                "id": 5,
+                "title": "Contacts not syncing",
+                "description": "New contacts do not appear in Skype.",
+                "customer": "Emma Thompson",
+                "priority": "Low",
+                "status": "Open",
+                "createdAt": "2025-03-05"
+            },
+            {
+                "id": 6,
+                "title": "App crashing on startup",
+                "description": "Skype app closes immediately after launch.",
+                "customer": "Frank Adams",
+                "priority": "High",
+                "status": "Closed",
+                "createdAt": "2025-03-19"
+            },
+            {
+                "id": 7,
+                "title": "Notifications delayed",
+                "description": "Push notifications are received late or not at all.",
+                "customer": "Grace Miller",
+                "priority": "Medium",
+                "status": "Open",
+                "createdAt": "2025-04-03"
+            },
+            {
+                "id": 8,
+                "title": "File transfer failure",
+                "description": "Unable to send or receive files in chats.",
+                "customer": "Henry Wilson",
+                "priority": "High",
+                "status": "In Progress",
+                "createdAt": "2025-04-16"
+            },
+            {
+                "id": 9,
+                "title": "Profile picture not updating",
+                "description": "New profile picture does not appear to contacts.",
+                "customer": "Isabella Brown",
+                "priority": "Low",
+                "status": "Open",
+                "createdAt": "2025-05-02"
+            },
+            {
+                "id": 10,
+                "title": "Skype Web login issue",
+                "description": "Cannot log into Skype Web; QR code fails.",
+                "customer": "Jack Robinson",
+                "priority": "High",
+                "status": "Open",
+                "createdAt": "2025-05-13"
+            },
+            {
+                "id": 11,
+                "title": "Group call disconnecting",
+                "description": "Group calls drop unexpectedly for participants.",
+                "customer": "Katie Hall",
+                "priority": "High",
+                "status": "Open",
+                "createdAt": "2025-05-29"
+            },
+            {
+                "id": 12,
+                "title": "Chat history missing",
+                "description": "Old chat messages are missing after update.",
+                "customer": "Liam Harris",
+                "priority": "Medium",
+                "status": "Closed",
+                "createdAt": "2025-06-14"
+            },
+            {
+                "id": 13,
+                "title": "Emojis not displaying",
+                "description": "Emojis appear as blank squares in messages.",
+                "customer": "Mia Collins",
+                "priority": "Low",
+                "status": "Open",
+                "createdAt": "2025-06-28"
+            },
+            {
+                "id": 14,
+                "title": "Call quality poor",
+                "description": "Audio quality drops during calls with lag.",
+                "customer": "Noah Parker",
+                "priority": "Medium",
+                "status": "Open",
+                "createdAt": "2025-07-06"
+            },
+            {
+                "id": 15,
+                "title": "Skype credit not applying",
+                "description": "Purchased Skype credits are not showing in account.",
+                "customer": "Olivia Scott",
+                "priority": "High",
+                "status": "In Progress",
+                "createdAt": "2025-07-22"
+            },
+            {
+                "id": 16,
+                "title": "Screen sharing not working",
+                "description": "Unable to share screen during video calls.",
+                "customer": "Paul Turner",
+                "priority": "Medium",
+                "status": "Open",
+                "createdAt": "2025-08-04"
+            },
+            {
+                "id": 17,
+                "title": "Login verification failed",
+                "description": "SMS verification codes not received for login.",
+                "customer": "Quinn Edwards",
+                "priority": "High",
+                "status": "Open",
+                "createdAt": "2025-08-18"
+            },
+            {
+                "id": 18,
+                "title": "Notifications on desktop not working",
+                "description": "No alerts for new messages on desktop app.",
+                "customer": "Rachel Martin",
+                "priority": "Medium",
+                "status": "Open",
+                "createdAt": "2025-09-02"
+            },
+            {
+                "id": 19,
+                "title": "Pinned chats disappearing",
+                "description": "Pinned chats lose their pinned status unexpectedly.",
+                "customer": "Samuel Green",
+                "priority": "Low",
+                "status": "Closed",
+                "createdAt": "2025-09-19"
+            },
+            {
+                "id": 20,
+                "title": "Account recovery failed",
+                "description": "Cannot recover Skype account using recovery options.",
+                "customer": "Tina White",
+                "priority": "High",
+                "status": "In Progress",
+                "createdAt": "2025-09-30"
+            }
+        ]
+    }
+]
