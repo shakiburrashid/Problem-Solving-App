@@ -10,10 +10,10 @@ function Navbar() {
 
                 <nav >
                     <ul className="flex gap-5 text-2xl">
-                        <Link to='/'> <li className="cursor-pointer">Home</li></Link>
-                        <Link to='/about'><li className="cursor-pointer">About</li></Link>
-                        <Link to='/faq'>  <li className="cursor-pointer">FAQ</li></Link>
-                        <Link to='/contact'> <li className="cursor-pointer">Contact</li></Link>
+                        <Link to='/'> <li className="cursor-pointer hover:font-bold">Home</li></Link>
+                        <Link to='/about'><li className="cursor-pointer hover:font-bold">About</li></Link>
+                        <Link to='/faq'>  <li className="cursor-pointer hover:font-bold">FAQ</li></Link>
+                        <Link to='/contact'> <li className="cursor-pointer hover:font-bold">Contact</li></Link>
                     </ul>
                 </nav>
             </div>

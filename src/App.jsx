@@ -20,9 +20,9 @@ function App() {
           <Route path="/about" element={<About />} />
           <Route path="/faq" element={<FAQ />} />
           <Route path="/contact" element={<Contact />} />
-        </Routes> */}
-        
-        <section className="px-10 pt-10 font-roboto">
+        </Routes>
+         */}
+        <section className="px-10 py-10 font-roboto">
           <Banner/>
 
         </section>
