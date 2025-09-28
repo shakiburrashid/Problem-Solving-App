@@ -1,8 +1,7 @@
 import React from 'react'
 const mainDiv = 'px-7 cursor-pointer py-5 w-150 h-53 rounded-xl shadow-xl max-2xl:w-120 max-2xl:h-43 max-2xl:p-3 max-md:w-80 max-md:h-65 max-md:place-content-center'
-function Card({ Cards }) {
-    const { id, title, social_media, description, customer, priority, status, createdAt } = Cards.data;
-    console.log(Cards.data)
+function Card({ Cards,tittle }) {
+    const { id, title, description, customer, priority, status, createdAt } = Cards;
     return (
         <div className={mainDiv}>
             <div className="flex justify-between items-center">
@@ -17,7 +16,7 @@ function Card({ Cards }) {
                 <div className="flex mt-5 justify-between items-center max-md:flex-col max-md:gap-2">
                     <div className="flex gap-5 items-center max-md:gap-35">
                         <p className="text-xl text-gray-500  max-2xl:text-sm"># <span>{id}</span></p>
-                        <h3 className="text-xl text-red-500 font-semibold max-2xl:text-sm"><span>{priority}</span> Priority</h3>
+                        <h3 className={`text-xl  font-semibold max-2xl:text-sm ${(priority==='High')?'text-red-600':(priority==='Medium')?'text-yellow-600':'text-green-600' }`}><span>{priority}</span> Priority</h3>
                     </div>
                     <div className="flex gap-3 items-center text-xl text-gray-500 max-2xl:text-sm  max-md:gap-30">
                         <h2>{customer} </h2>
@@ -27,7 +26,7 @@ function Card({ Cards }) {
                         </div>
                     </div>
                 </div>
-                <h1 className='mt-2 font-semibold text-2xl'># <span>{social_media}</span></h1>
+                <h1 className='mt-2 font-semibold text-2xl'># <span>{tittle}</span></h1>
             </div>
         </div>
     );
